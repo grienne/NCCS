@@ -1,0 +1,1662 @@
+nacchoid,yearsurvey,county_fips,cty_fip_adj,lhd_name,stabrev
+AL001,2016,1001,01001,Autauga County Health Department,AL
+AL002,2016,1003,01003,Baldwin County Health Department,AL
+AL011,2016,1021,01021,Chilton County Health Department,AL
+AL017,2016,1033,01033,Colbert County Health Department,AL
+AL028,2016,1053,01053,Escambia County Health Department,AL
+AL033,2014,1063,01063,Greene County Health Department,AL
+AL039,2014,1075,01075,Lamar County Health Department,AL
+AL046,2006,1089,01089,Madison County Health Department,AL
+AL046,2012,1089,01089,Madison County Health Department,AL
+AL050,2006,1097,01097,Mobile County Health Department,AL
+AL050,2012,1097,01097,Mobile County Health Department,AL
+AL050,2016,1097,01097,Mobile County Health Department,AL
+AL051,2016,1099,01099,Monroe County Health Department,AL
+AL052,2012,1101,01101,Montgomery County Health Department,AL
+AL052,2016,1101,01101,Montgomery County Health Department,AL
+AL066,2012,1125,01125,Tuscaloosa County Health Department,AL
+AL066,2016,1125,01125,Tuscaloosa County Health Department,AL
+AL067,2014,1127,01127,Walker County Health Department,AL
+AL067,2016,1127,01127,Walker County Health Department,AL
+AK001,2006,2001,02001,Municipality Of Anchorage/Department Of Health And Human Services,AK
+AK039,2014,2016,02016,Southwest Region,AK
+AK004,2014,2185,02185,North Slope Borough Health and Social Services Agency,AK
+AK041,2016,2195,02195,Southeast Region,AK
+AZ001,2014,4001,04001,Apache County Health Department,AZ
+AZ001,2016,4001,04001,Apache County Health Department,AZ
+AZ002,2006,4003,04003,Cochise County Health Department,AZ
+AZ002,2012,4003,04003,Cochise County Health Department,AZ
+AZ002,2014,4003,04003,Cochise County Health Department,AZ
+AZ002,2016,4003,04003,Cochise County Health Department,AZ
+AZ003,2006,4005,04005,Coconino County Health Department,AZ
+AZ003,2012,4005,04005,Coconino County Health Department,AZ
+AZ003,2016,4005,04005,Coconino County Health Department,AZ
+AZ005,2014,4009,04009,Graham County Health Department,AZ
+AZ007,2016,4012,04012,La Paz County Health Department,AZ
+AZ008,2006,4013,04013,Maricopa County Department Of Public Health,AZ
+AZ008,2012,4013,04013,Maricopa County Department Of Public Health,AZ
+AZ008,2014,4013,04013,Maricopa County Department Of Public Health,AZ
+AZ009,2014,4015,04015,Mohave County Department Of Health & Social Services,AZ
+AZ009,2016,4015,04015,Mohave County Department Of Health & Social Services,AZ
+AZ011,2012,4019,04019,Pima County Health Department,AZ
+AZ011,2014,4019,04019,Pima County Health Department,AZ
+AZ011,2016,4019,04019,Pima County Health Department,AZ
+AZ012,2012,4021,04021,Pinal County Department Of Public Health,AZ
+AZ012,2014,4021,04021,Pinal County Department Of Public Health,AZ
+AZ012,2016,4021,04021,Pinal County Department Of Public Health,AZ
+AZ014,2006,4025,04025,Yavapai County Community Health Services,AZ
+AZ014,2012,4025,04025,Yavapai County Community Health Services,AZ
+AZ014,2014,4025,04025,Yavapai County Community Health Services,AZ
+AZ014,2016,4025,04025,Yavapai County Community Health Services,AZ
+AZ015,2006,4027,04027,Yuma County Department Of Public Health,AZ
+AZ015,2016,4027,04027,Yuma County Department Of Public Health,AZ
+AR005,2016,5009,05009,Boone County Health Department,AR
+AR007,2014,5013,05013,Calhoun County Health Unit,AR
+AR007,2016,5013,05013,Calhoun County Health Unit,AR
+AR013,2014,5025,05025,Cleveland County Health Unit,AR
+AR013,2016,5025,05025,Cleveland County Health Unit,AR
+AR020,2016,5039,05039,Dallas County Health Unit,AR
+AR033,2014,5067,05067,Jackson County Health Unit,AR
+AR033,2016,5067,05067,Jackson County Health Unit,AR
+AR034,2006,5069,05069,Jefferson County Health Unit,AR
+AR034,2012,5069,05069,Jefferson County Health Unit,AR
+AR034,2016,5069,05069,Jefferson County Health Unit,AR
+AR036,2016,5073,05073,Lafayette County Health Unit,AR
+AR037,2014,5075,05075,Lawrence County Health Unit,AR
+AR037,2016,5075,05075,Lawrence County Health Unit,AR
+AR110,2014,5083,05083,Logan Co. Booneville Health Unit,AR
+AR110,2016,5083,05083,Logan Co. Booneville Health Unit,AR
+AR042,2016,5085,05085,,AR
+AR044,2016,5089,05089,Marion County Health Unit,AR
+AR047,2014,5095,05095,Monroe County Health Unit,AR
+AR047,2016,5095,05095,Monroe County Health Unit,AR
+AR048,2014,5097,05097,Montgomery County Health Unit,AR
+AR048,2016,5097,05097,Montgomery County Health Unit,AR
+AR049,2016,5099,05099,Nevada County Health Unit,AR
+AR050,2014,5101,05101,Newton County Health Unit,AR
+AR050,2016,5101,05101,Newton County Health Unit,AR
+AR055,2014,5111,05111,Poinsett County Health Unit - Harrisburg,AR
+AR055,2016,5111,05111,Poinsett County Health Unit - Harrisburg,AR
+AR058,2014,5117,05117,Prairie County Health Unit,AR
+AR059,2006,5119,05119,Pulaski County Central Health Unit,AR
+AR059,2016,5119,05119,Pulaski County Central Health Unit,AR
+AR060,2016,5121,05121,Randolph County,AR
+AR064,2012,5131,05131,Sebastian County Health Unit,AR
+AR064,2014,5131,05131,Sebastian County Health Unit,AR
+AR064,2016,5131,05131,Sebastian County Health Unit,AR
+AR066,2016,5135,05135,Sharp County Health Unit,AR
+AR071,2006,5143,05143,Washington County Health Unit,AR
+AR071,2016,5143,05143,Washington County Health Unit,AR
+CA004,2006,6001,06001,Berkeley Public Health Department,CA
+CA004,2012,6001,06001,Berkeley Public Health Department,CA
+CA004,2014,6001,06001,Berkeley Public Health Department,CA
+CA004,2016,6001,06001,Berkeley Public Health Department,CA
+CA005,2014,6007,06007,Butte County Department Of Public Health,CA
+CA008,2016,6013,06013,Cotra Costa Health Services Department,CA
+CA010,2012,6017,06017,El Dorado County Public Health Department,CA
+CA010,2014,6017,06017,El Dorado County Public Health Department,CA
+CA010,2016,6017,06017,El Dorado County Public Health Department,CA
+CA011,2014,6019,06019,Fresno County Public Health Department,CA
+CA013,2012,6023,06023,Humboldt County Department Of Health And Human Services,CA
+CA016,2006,6029,06029,Kern County Department Of Public Health,CA
+CA016,2012,6029,06029,Kern County Department Of Public Health,CA
+CA016,2016,6029,06029,Kern County Department Of Public Health,CA
+CA019,2016,6035,06035,Lassen County Department of Health and Social Services,CA
+CA020,2014,6037,06037,City Of Long Beach Department Of Health And Human Services,CA
+CA033,2014,6037,06037,Pasadena Public Health Department,CA
+CA033,2016,6037,06037,Pasadena Public Health Department,CA
+CA045,2006,6037,06037,Los Angeles County Department Of Health Services,CA
+CA045,2012,6037,06037,Los Angeles County Department Of Health Services,CA
+CA045,2016,6037,06037,Los Angeles County Department Of Health Services,CA
+CA022,2006,6039,06039,Madera County Public Health Department,CA
+CA022,2012,6039,06039,Madera County Public Health Department,CA
+CA022,2014,6039,06039,Madera County Public Health Department,CA
+CA022,2016,6039,06039,Madera County Public Health Department,CA
+CA024,2014,6043,06043,Mariposa County Health Department,CA
+CA024,2016,6043,06043,Mariposa County Health Department,CA
+CA025,2016,6045,06045,Mendocino County Health and Human Services Agency,CA
+CA026,2016,6047,06047,Merced County Department Of Public Health,CA
+CA027,2016,6049,06049,Modoc County Public Health Department,CA
+CA029,2006,6053,06053,Monterey County Health Department,CA
+CA029,2016,6053,06053,Monterey County Health Department,CA
+CA031,2016,6057,06057,Nevada County Public Health Department,CA
+CA032,2016,6059,06059,Orange County Public Health,CA
+CA034,2016,6061,06061,Placer County Health & Human Services,CA
+CA036,2014,6065,06065,County Of Riverside Department Of Health,CA
+CA038,2016,6069,06069,San Benito County Health and Human Services,CA
+CA039,2006,6071,06071,San Bernardino County Department Of Public Health,CA
+CA040,2012,6073,06073,County Of San Diego Department Of Health Services,CA
+CA040,2014,6073,06073,County Of San Diego Department Of Health Services,CA
+CA040,2016,6073,06073,County Of San Diego Department Of Health Services,CA
+CA041,2006,6075,06075,San Francisco Department Of Public Health,CA
+CA041,2012,6075,06075,San Francisco Department Of Public Health,CA
+CA042,2006,6077,06077,San Joaquin County Public Health Services,CA
+CA042,2012,6077,06077,San Joaquin County Public Health Services,CA
+CA042,2014,6077,06077,San Joaquin County Public Health Services,CA
+CA042,2016,6077,06077,San Joaquin County Public Health Services,CA
+CA043,2012,6079,06079,San Luis Obispo County Health Department,CA
+CA043,2014,6079,06079,San Luis Obispo County Health Department,CA
+CA043,2016,6079,06079,San Luis Obispo County Health Department,CA
+CA044,2016,6081,06081,San Mateo County Health Department,CA
+CA064,2014,6083,06083,Santa Barbara County Public Health Department,CA
+CA046,2006,6085,06085,Santa Clara County Public Health,CA
+CA046,2016,6085,06085,Santa Clara County Public Health,CA
+CA047,2014,6087,06087,Santa Cruz County Health Services Agency,CA
+CA048,2016,6089,06089,Shasta County Public Health Department,CA
+CA049,2016,6091,06091,Sierra County Health Department,CA
+CA051,2014,6095,06095,Solano County Health & Social Services,CA
+CA051,2016,6095,06095,Solano County Health & Social Services,CA
+CA052,2006,6097,06097,Sonoma County Department Of Health Services,CA
+CA052,2012,6097,06097,Sonoma County Department Of Health Services,CA
+CA052,2014,6097,06097,Sonoma County Department Of Health Services,CA
+CA052,2016,6097,06097,Sonoma County Department Of Health Services,CA
+CA054,2016,6101,06101,Sutter County Human Services - Health (Sutter County Public Health),CA
+CA058,2012,6107,06107,Tulare County Health & Human Services Agency,CA
+CA058,2014,6107,06107,Tulare County Health & Human Services Agency,CA
+CA058,2016,6107,06107,Tulare County Health & Human Services Agency,CA
+CA060,2012,6111,06111,Ventura County Public Health,CA
+CA060,2014,6111,06111,Ventura County Public Health,CA
+CA060,2016,6111,06111,Ventura County Public Health,CA
+CA062,2006,6113,06113,Yolo County Health Department,CA
+CA062,2012,6113,06113,Yolo County Health Department,CA
+CA062,2014,6113,06113,Yolo County Health Department,CA
+CA062,2016,6113,06113,Yolo County Health Department,CA
+CO001,2014,8003,08003,Alamosa County Public Health Department,CO
+CO001,2016,8003,08003,Alamosa County Public Health Department,CO
+CO079,2014,8009,08009,Baca County Public Health Nursing Service,CO
+CO006,2014,8013,08013,Boulder County Health Department,CO
+CO006,2016,8013,08013,Boulder County Health Department,CO
+CO007,2016,8015,08015,Chaffee County Public Health & Human Services,CO
+CO009,2016,8017,08017,Cheyenne County Public Health,CO
+CO087,2014,8019,08019,Clear Creek County Environmental Health Department,CO
+CO011,2014,8021,08021,Conejos County Public Health Nursing Service,CO
+CO011,2016,8021,08021,Conejos County Public Health Nursing Service,CO
+CO015,2014,8029,08029,Delta County Department of Health & Human Services,CO
+CO015,2016,8029,08029,Delta County Department of Health & Human Services,CO
+CO016,2016,8031,08031,Denver Health Authority,CO
+CO062,2014,8035,08035,Tri-County Health Department,CO
+CO062,2016,8035,08035,Tri-County Health Department,CO
+CO019,2006,8041,08041,El Paso County Department Of Health & Environment,CO
+CO019,2014,8041,08041,El Paso County Department Of Health & Environment,CO
+CO019,2016,8041,08041,El Paso County Department Of Health & Environment,CO
+CO021,2016,8043,08043,Fremont County Public Health Agency,CO
+CO023,2014,8045,08045,Garfield County Public Health Nursing Service,CO
+CO023,2016,8045,08045,Garfield County Public Health Nursing Service,CO
+CO026,2014,8051,08051,Public Health Division Gunnison County Dept H&H,CO
+CO026,2016,8051,08051,Public Health Division Gunnison County Dept H&H,CO
+CO013,2014,8053,08053,Hinsdale County Public Health,CO
+CO013,2016,8053,08053,Hinsdale County Public Health,CO
+CO029,2016,8059,08059,Jefferson County Department Of Health And Environment,CO
+CO055,2014,8067,08067,San Juan Basin Health Department,CO
+CO055,2016,8067,08067,San Juan Basin Health Department,CO
+CO034,2006,8069,08069,Larimer County Department Of Health And Environment,CO
+CO036,2014,8073,08073,Lincoln County Public Health,CO
+CO036,2016,8073,08073,Lincoln County Public Health,CO
+CO037,2006,8077,08077,Mesa County Health Department,CO
+CO037,2016,8077,08077,Mesa County Health Department,CO
+CO045,2014,8089,08089,Otero County Department of Health,CO
+CO050,2012,8101,08101,Pueblo City-County Health Department,CO
+CO050,2014,8101,08101,Pueblo City-County Health Department,CO
+CO050,2016,8101,08101,Pueblo City-County Health Department,CO
+CO044,2014,8107,08107,Northwest Colorado Visiting Nurse Association and Hospice,CO
+CO044,2016,8107,08107,Northwest Colorado Visiting Nurse Association and Hospice,CO
+CO054,2016,8109,08109,Saguache County Public Health,CO
+CO060,2014,8119,08119,Teller County Public Health,CO
+CO060,2016,8119,08119,Teller County Public Health,CO
+CO064,2006,8123,08123,Weld County Health Department,CO
+CT009,2014,9001,09001,City Of Bridgeport Health Department,CT
+CT022,2014,9001,09001,City of Danbury Health & Human Services Department,CT
+CT022,2016,9001,09001,City of Danbury Health & Human Services Department,CT
+CT033,2014,9001,09001,Fairfield Health Department,CT
+CT038,2016,9001,09001,Greenwich Department of Health,CT
+CT063,2016,9001,09001,New Fairfield Health Department,CT
+CT073,2014,9001,09001,Norwalk Health Department,CT
+CT073,2016,9001,09001,Norwalk Health Department,CT
+CT098,2014,9001,09001,Stratford Health Department,CT
+CT098,2016,9001,09001,Stratford Health Department,CT
+CT011,2014,9003,09003,Bristol-Burlington Health District,CT
+CT011,2016,9003,09003,Bristol-Burlington Health District,CT
+CT028,2016,9003,09003,East Hartford Health Department,CT
+CT034,2014,9005,09005,Farmington Valley Health District,CT
+CT034,2016,9005,09005,Farmington Valley Health District,CT
+CT025,2016,9007,09007,Durham Health Department,CT
+CT041,2016,9009,09009,Guilford Health Department,CT
+CT060,2006,9009,09009,Naugatuck Valley Health District,CT
+CT060,2012,9009,09009,Naugatuck Valley Health District,CT
+CT060,2014,9009,09009,Naugatuck Valley Health District,CT
+CT060,2016,9009,09009,Naugatuck Valley Health District,CT
+CT064,2006,9009,09009,City Of New Haven Health Department,CT
+CT064,2012,9009,09009,City Of New Haven Health Department,CT
+CT064,2014,9009,09009,City Of New Haven Health Department,CT
+CT064,2016,9009,09009,City Of New Haven Health Department,CT
+CT082,2014,9009,09009,Quinnipiack Valley Health District,CT
+CT082,2016,9009,09009,Quinnipiack Valley Health District,CT
+CT106,2014,9009,09009,Waterbury Department Of Public Health,CT
+CT081,2014,9011,09011,Preston Health Department,CT
+CT102,2014,9011,09011,Uncas Health District,CT
+CT102,2016,9011,09011,Uncas Health District,CT
+CT131,2016,9013,09013,Chatham Health District,CT
+CT071,2016,9015,09015,North Central District Health Department,CT
+DE002,2012,10003,10003,Northeast State Service Center,DE
+DE002,2016,10003,10003,Northeast State Service Center,DE
+DE003,2006,10005,10005,Thurman Adams State Service Center,DE
+DE003,2012,10005,10005,Thurman Adams State Service Center,DE
+DE003,2016,10005,10005,Thurman Adams State Service Center,DE
+DC001,2012,11001,11001,District of Columbia Department Of Health,DC
+DC001,2014,11001,11001,District of Columbia Department Of Health,DC
+FL002,2006,12001,12001,Alachua County Public Health Unit,FL
+FL002,2016,12001,12001,Alachua County Public Health Unit,FL
+FL006,2014,12009,12009,Brevard County Health Department,FL
+FL006,2016,12009,12009,Brevard County Health Department,FL
+FL007,2006,12011,12011,Broward County Health Department,FL
+FL009,2006,12015,12015,Charlotte County Health Department,FL
+FL010,2016,12017,12017,Citrus County Health Department,FL
+FL011,2006,12019,12019,Clay County Health Department,FL
+FL011,2012,12019,12019,Clay County Health Department,FL
+FL011,2014,12019,12019,Clay County Health Department,FL
+FL011,2016,12019,12019,Clay County Health Department,FL
+FL012,2006,12021,12021,Collier County Public Health,FL
+FL012,2012,12021,12021,Collier County Public Health,FL
+FL012,2014,12021,12021,Collier County Public Health,FL
+FL012,2016,12021,12021,Collier County Public Health,FL
+FL013,2016,12023,12023,Columbia County Public Health Department,FL
+FL001,2006,12031,12031,Duval County Health Department,FL
+FL001,2012,12031,12031,Duval County Health Department,FL
+FL001,2014,12031,12031,Duval County Health Department,FL
+FL017,2006,12033,12033,Escambia County Health Department,FL
+FL017,2012,12033,12033,Escambia County Health Department,FL
+FL017,2016,12033,12033,Escambia County Health Department,FL
+FL018,2016,12035,12035,Flagler County Health Department,FL
+FL026,2006,12053,12053,Hernando County Health Department,FL
+FL026,2012,12053,12053,Hernando County Health Department,FL
+FL026,2014,12053,12053,Hernando County Health Department,FL
+FL026,2016,12053,12053,Hernando County Health Department,FL
+FL030,2006,12061,12061,Indian River County Health Department,FL
+FL030,2012,12061,12061,Indian River County Health Department,FL
+FL030,2016,12061,12061,Indian River County Health Department,FL
+FL033,2016,12067,12067,Lafayette County Health Department,FL
+FL034,2006,12069,12069,Lake County Health Department,FL
+FL034,2012,12069,12069,Lake County Health Department,FL
+FL035,2006,12071,12071,Lee County Health Department,FL
+FL035,2012,12071,12071,Lee County Health Department,FL
+FL035,2014,12071,12071,Lee County Health Department,FL
+FL035,2016,12071,12071,Lee County Health Department,FL
+FL036,2006,12073,12073,Leon County Health Department,FL
+FL036,2012,12073,12073,Leon County Health Department,FL
+FL036,2016,12073,12073,Leon County Health Department,FL
+FL039,2016,12079,12079,Madison County Health Department,FL
+FL040,2012,12081,12081,Manatee County Health Department,FL
+FL040,2014,12081,12081,Manatee County Health Department,FL
+FL040,2016,12081,12081,Manatee County Health Department,FL
+FL041,2016,12083,12083,Marion County Health Department,FL
+FL042,2014,12085,12085,Martin County Health Department,FL
+FL042,2016,12085,12085,Martin County Health Department,FL
+FL014,2006,12086,12086,Florida Department Of Health-Dade County Health Department,FL
+FL014,2012,12086,12086,Florida Department Of Health-Dade County Health Department,FL
+FL014,2014,12086,12086,Florida Department Of Health-Dade County Health Department,FL
+FL043,2016,12087,12087,Monroe County Health Department,FL
+FL045,2006,12091,12091,Okaloosa County Health Department,FL
+FL045,2012,12091,12091,Okaloosa County Health Department,FL
+FL045,2016,12091,12091,Okaloosa County Health Department,FL
+FL047,2006,12095,12095,Orange County Health Department,FL
+FL047,2012,12095,12095,Orange County Health Department,FL
+FL047,2014,12095,12095,Orange County Health Department,FL
+FL047,2016,12095,12095,Orange County Health Department,FL
+FL048,2006,12097,12097,Osceola County Health Department,FL
+FL049,2012,12099,12099,Palm Beach County Health Department,FL
+FL049,2014,12099,12099,Palm Beach County Health Department,FL
+FL049,2016,12099,12099,Palm Beach County Health Department,FL
+FL050,2006,12101,12101,Pasco County Health Department,FL
+FL050,2012,12101,12101,Pasco County Health Department,FL
+FL050,2014,12101,12101,Pasco County Health Department,FL
+FL050,2016,12101,12101,Pasco County Health Department,FL
+FL051,2006,12103,12103,Pinellas County Health Department,FL
+FL051,2012,12103,12103,Pinellas County Health Department,FL
+FL051,2014,12103,12103,Pinellas County Health Department,FL
+FL051,2016,12103,12103,Pinellas County Health Department,FL
+FL052,2016,12105,12105,Polk County Health Department,FL
+FL058,2014,12111,12111,St Lucie County Health Department,FL
+FL058,2016,12111,12111,St Lucie County Health Department,FL
+FL054,2016,12113,12113,Santa Rosa County Health Department,FL
+FL055,2006,12115,12115,Sarasota County Health Department,FL
+FL055,2012,12115,12115,Sarasota County Health Department,FL
+FL055,2014,12115,12115,Sarasota County Health Department,FL
+FL056,2014,12117,12117,Seminole County Health Department,FL
+FL056,2016,12117,12117,Seminole County Health Department,FL
+FL062,2016,12125,12125,Union County Health Department,FL
+FL063,2006,12127,12127,Volusia County Health Department,FL
+FL063,2012,12127,12127,Volusia County Health Department,FL
+FL063,2014,12127,12127,Volusia County Health Department,FL
+GA011,2006,13021,13021,Macon-Bibb County Health Department,GA
+GA011,2012,13021,13021,Macon-Bibb County Health Department,GA
+GA011,2014,13021,13021,Macon-Bibb County Health Department,GA
+GA025,2006,13051,13051,Chatham County Health Department,GA
+GA025,2014,13051,13051,Chatham County Health Department,GA
+GA028,2006,13057,13057,Cherokee County Health Department,GA
+GA028,2016,13057,13057,Cherokee County Health Department,GA
+GA034,2006,13067,13067,Cobb & Douglas Counties Boards Of Health,GA
+GA034,2012,13067,13067,Cobb & Douglas Counties Boards Of Health,GA
+GA034,2014,13067,13067,Cobb & Douglas Counties Boards Of Health,GA
+GA034,2016,13067,13067,Cobb & Douglas Counties Boards Of Health,GA
+GA045,2006,13089,13089,Dekalb County Board Of Health,GA
+GA045,2012,13089,13089,Dekalb County Board Of Health,GA
+GA045,2014,13089,13089,Dekalb County Board Of Health,GA
+GA045,2016,13089,13089,Dekalb County Board Of Health,GA
+GA101,2014,13197,13197,Marion County Health Department,GA
+GA038,2006,13215,13215,Columbus (Muscogee) Department Of Public Health,GA
+GA038,2014,13215,13215,Columbus (Muscogee) Department Of Public Health,GA
+GA038,2016,13215,13215,Columbus (Muscogee) Department Of Public Health,GA
+GA127,2006,13245,13245,Richmond County Health Department,GA
+GA127,2012,13245,13245,Richmond County Health Department,GA
+GA071,2012,13247,13247,District 3-4 Public Health Office,GA
+GA071,2014,13247,13247,District 3-4 Public Health Office,GA
+GA071,2016,13247,13247,District 3-4 Public Health Office,GA
+GA152,2016,13293,13293,Upson County Health Department,GA
+HI002,2006,15001,15001,Hawaii District Health Office,HI
+HI002,2012,15001,15001,Hawaii District Health Office,HI
+HI002,2016,15001,15001,Hawaii District Health Office,HI
+ID003,2006,16069,16069,North Central District Health Department,ID
+ID003,2012,16069,16069,North Central District Health Department,ID
+ID003,2014,16069,16069,North Central District Health Department,ID
+ID003,2016,16069,16069,North Central District Health Department,ID
+ID007,2006,16077,16077,Southeastern District Health Department,ID
+ID007,2012,16077,16077,Southeastern District Health Department,ID
+ID007,2014,16077,16077,Southeastern District Health Department,ID
+ID007,2016,16077,16077,Southeastern District Health Department,ID
+ID004,2006,16079,16079,Panhandle Health District,ID
+ID004,2012,16079,16079,Panhandle Health District,ID
+ID004,2014,16079,16079,Panhandle Health District,ID
+ID004,2016,16079,16079,Panhandle Health District,ID
+ID002,2006,16081,16081,Eastern Idaho Public Health District,ID
+ID002,2012,16081,16081,Eastern Idaho Public Health District,ID
+ID002,2014,16081,16081,Eastern Idaho Public Health District,ID
+ID002,2016,16081,16081,Eastern Idaho Public Health District,ID
+ID006,2006,16083,16083,South Central District Health Department,ID
+ID006,2012,16083,16083,South Central District Health Department,ID
+ID006,2014,16083,16083,South Central District Health Department,ID
+ID006,2016,16083,16083,South Central District Health Department,ID
+ID001,2006,16085,16085,Central District Health Department,ID
+ID001,2012,16085,16085,Central District Health Department,ID
+ID001,2014,16085,16085,Central District Health Department,ID
+ID005,2006,16087,16087,Southwest District Health Department,ID
+ID005,2012,16087,16087,Southwest District Health Department,ID
+ID005,2016,16087,16087,Southwest District Health Department,ID
+IL001,2014,17001,17001,Adams Co Health Dept,IL
+IL001,2016,17001,17001,Adams Co Health Dept,IL
+IL008,2006,17019,17019,Champaign-Urbana Public Health District,IL
+IL008,2012,17019,17019,Champaign-Urbana Public Health District,IL
+IL008,2014,17019,17019,Champaign-Urbana Public Health District,IL
+IL008,2016,17019,17019,Champaign-Urbana Public Health District,IL
+IL012,2014,17029,17029,Coles County Health Department,IL
+IL012,2016,17029,17029,Coles County Health Department,IL
+IL009,2006,17031,17031,City Of Chicago Department Of Public Health,IL
+IL009,2016,17031,17031,City Of Chicago Department Of Public Health,IL
+IL013,2006,17031,17031,Cook County Department Of Public Health,IL
+IL078,2014,17031,17031,Stickney Public Health District,IL
+IL078,2016,17031,17031,Stickney Public Health District,IL
+IL009,2012,17043,17043,City Of Chicago Department Of Public Health,IL
+IL018,2014,17043,17043,Dupage County Health Department,IL
+IL018,2016,17043,17043,Dupage County Health Department,IL
+IL028,2014,17063,17063,Grundy County Health Department,IL
+IL028,2016,17063,17063,Grundy County Health Department,IL
+IL030,2014,17067,17067,Hancock County Health Department,IL
+IL032,2014,17073,17073,Henry County Health Department,IL
+IL032,2016,17073,17073,Henry County Health Department,IL
+IL033,2016,17077,17077,Jackson County Health Department,IL
+IL038,2014,17089,17089,Kane County Health Department,IL
+IL038,2016,17089,17089,Kane County Health Department,IL
+IL043,2006,17097,17097,Lake County Health Department,IL
+IL043,2012,17097,17097,Lake County Health Department,IL
+IL043,2014,17097,17097,Lake County Health Department,IL
+IL043,2016,17097,17097,Lake County Health Department,IL
+IL045,2016,17103,17103,Lee County Health Department,IL
+IL046,2016,17105,17105,Livingston County Health Department,IL
+IL053,2006,17111,17111,Mchenry County Department Of Health,IL
+IL053,2012,17111,17111,Mchenry County Department Of Health,IL
+IL053,2014,17111,17111,Mchenry County Department Of Health,IL
+IL053,2016,17111,17111,Mchenry County Department Of Health,IL
+IL054,2006,17113,17113,Mclean County Health Department,IL
+IL054,2012,17113,17113,Mclean County Health Department,IL
+IL054,2014,17113,17113,Mclean County Health Department,IL
+IL054,2016,17113,17113,Mclean County Health Department,IL
+IL048,2006,17115,17115,Macon County Health Department,IL
+IL048,2012,17115,17115,Macon County Health Department,IL
+IL048,2014,17115,17115,Macon County Health Department,IL
+IL090,2006,17119,17119,Madison County Health Department,IL
+IL090,2012,17119,17119,Madison County Health Department,IL
+IL090,2014,17119,17119,Madison County Health Department,IL
+IL090,2016,17119,17119,Madison County Health Department,IL
+IL051,2016,17125,17125,Mason County Health Department,IL
+IL050,2012,17143,17143,Peoria City/County Health Department,IL
+IL050,2014,17143,17143,Peoria City/County Health Department,IL
+IL050,2016,17143,17143,Peoria City/County Health Department,IL
+IL067,2012,17161,17161,Rock Island County Health Department,IL
+IL067,2014,17161,17161,Rock Island County Health Department,IL
+IL067,2016,17161,17161,Rock Island County Health Department,IL
+IL075,2012,17163,17163,St Clair County Health Department,IL
+IL075,2014,17163,17163,St Clair County Health Department,IL
+IL075,2016,17163,17163,St Clair County Health Department,IL
+IL074,2014,17167,17167,Sangamon County Department of Public Health,IL
+IL079,2006,17179,17179,Tazewell County Health Department,IL
+IL079,2012,17179,17179,Tazewell County Health Department,IL
+IL079,2014,17179,17179,Tazewell County Health Department,IL
+IL079,2016,17179,17179,Tazewell County Health Department,IL
+IL084,2006,17197,17197,Will County Health Department,IL
+IL084,2012,17197,17197,Will County Health Department,IL
+IL084,2016,17197,17197,Will County Health Department,IL
+IL025,2014,17199,17199,Franklin-Williamson Bi-County Health Department,IL
+IN002,2014,18003,18003,Fort Wayne-Allen County Department Of Health,IN
+IN002,2016,18003,18003,Fort Wayne-Allen County Department Of Health,IN
+IN015,2014,18033,18033,DeKalb County Health Department,IN
+IN021,2006,18039,18039,Elkhart County Health Department,IN
+IN021,2012,18039,18039,Elkhart County Health Department,IN
+IN021,2014,18039,18039,Elkhart County Health Department,IN
+IN021,2016,18039,18039,Elkhart County Health Department,IN
+IN028,2014,18051,18051,Gibson County Health Department,IN
+IN028,2016,18051,18051,Gibson County Health Department,IN
+IN031,2016,18057,18057,Hamilton County Health Department,IN
+IN036,2016,18065,18065,Henry County Health Department,IN
+IN037,2016,18067,18067,Howard County Health Department,IN
+IN027,2006,18089,18089,Gary Health Department,IN
+IN050,2014,18091,18091,Laporte County Health Department,IN
+IN050,2016,18091,18091,Laporte County Health Department,IN
+IN052,2012,18095,18095,Madison County Health Department,IN
+IN052,2016,18095,18095,Madison County Health Department,IN
+IN057,2006,18105,18105,Monroe County Health Department,IN
+IN057,2012,18105,18105,Monroe County Health Department,IN
+IN057,2014,18105,18105,Monroe County Health Department,IN
+IN057,2016,18105,18105,Monroe County Health Department,IN
+IN068,2006,18127,18127,Porter County Health Department,IN
+IN068,2012,18127,18127,Porter County Health Department,IN
+IN068,2016,18127,18127,Porter County Health Department,IN
+IN073,2014,18137,18137,Ripley County Health Department,IN
+IN073,2016,18137,18137,Ripley County Health Department,IN
+IN078,2006,18141,18141,St Joseph County Health Department,IN
+IN078,2012,18141,18141,St Joseph County Health Department,IN
+IN078,2014,18141,18141,St Joseph County Health Department,IN
+IN078,2016,18141,18141,St Joseph County Health Department,IN
+IN083,2014,18157,18157,Tippecanoe County Health Department,IN
+IN083,2016,18157,18157,Tippecanoe County Health Department,IN
+IN086,2012,18163,18163,Vanderburgh County Health Department,IN
+IN086,2016,18163,18163,Vanderburgh County Health Department,IN
+IN088,2016,18167,18167,Vigo County Health Department,IN
+IA012,2016,19019,19019,Buchanan County Health Center Public Health Department,IA
+IA018,2014,19031,19031,Cedar County Public Health,IA
+IA018,2016,19031,19031,Cedar County Public Health,IA
+IA022,2014,19037,19037,Chickasaw Co. Public Health Agency,IA
+IA022,2016,19037,19037,Chickasaw Co. Public Health Agency,IA
+IA040,2016,19061,19061,Dubuque County Health Department,IA
+IA042,2014,19063,19063,Emmet County Public Health,IA
+IA042,2016,19063,19063,Emmet County Public Health,IA
+IA064,2006,19103,19103,Johnson County Department Of Public Health,IA
+IA064,2012,19103,19103,Johnson County Department Of Public Health,IA
+IA064,2014,19103,19103,Johnson County Department Of Public Health,IA
+IA064,2016,19103,19103,Johnson County Department Of Public Health,IA
+IA069,2014,19113,19113,Linn County Health Department,IA
+IA069,2016,19113,19113,Linn County Health Department,IA
+IA088,2014,19147,19147,Palo Alto County Community Health Service,IA
+IA090,2016,19151,19151,Pocahontas County Nursing and Health Service,IA
+IA092,2014,19153,19153,Polk County Health Department,IA
+IA092,2016,19153,19153,Polk County Health Department,IA
+IA098,2006,19163,19163,Scott County Health Department,IA
+IA098,2012,19163,19163,Scott County Health Department,IA
+IA098,2014,19163,19163,Scott County Health Department,IA
+IA098,2016,19163,19163,Scott County Health Department,IA
+IA104,2014,19173,19173,Taylor County Public Health Agency,IA
+IA104,2016,19173,19173,Taylor County Public Health Agency,IA
+IA046,2014,19187,19187,Webster County Public Health Agency,IA
+IA046,2016,19187,19187,Webster County Public Health Agency,IA
+IA101,2006,19193,19193,Siouxland District Health Department,IA
+IA101,2012,19193,19193,Siouxland District Health Department,IA
+IA101,2014,19193,19193,Siouxland District Health Department,IA
+IA101,2016,19193,19193,Siouxland District Health Department,IA
+KS001,2014,20007,20007,Barber County Public and Environmental Health Department,KS
+KS001,2016,20007,20007,Barber County Public and Environmental Health Department,KS
+KS009,2014,20027,20027,Clay County Health Department,KS
+KS009,2016,20027,20027,Clay County Health Department,KS
+KS013,2014,20035,20035,City-Cowley County Health Department,KS
+KS013,2016,20035,20035,City-Cowley County Health Department,KS
+KS066,2014,20073,20073,Decatur Health Department,KS
+KS066,2016,20073,20073,Decatur Health Department,KS
+KS099,2014,20081,20081,Haskell County Health Department,KS
+KS099,2016,20081,20081,Haskell County Health Department,KS
+KS033,2016,20083,20083,Hodgeman County Health Department,KS
+KS035,2016,20089,20089,Jewell County Health Department,KS
+KS036,2006,20091,20091,Johnson County Public Health Department,KS
+KS036,2012,20091,20091,Johnson County Public Health Department,KS
+KS036,2014,20091,20091,Johnson County Public Health Department,KS
+KS036,2016,20091,20091,Johnson County Public Health Department,KS
+KS041,2014,20099,20099,Labette County Health Department,KS
+KS041,2016,20099,20099,Labette County Health Department,KS
+KS052,2016,20119,20119,Meade County Health Department,KS
+KS061,2016,20135,20135,Ness County Health Department,KS
+KS064,2016,20141,20141,Osborne Co. Health Dept.,KS
+KS067,2014,20145,20145,Pawnee County Health Department,KS
+KS067,2016,20145,20145,Pawnee County Health Department,KS
+KS072,2014,20155,20155,Reno County Health Department,KS
+KS072,2016,20155,20155,Reno County Health Department,KS
+KS073,2014,20157,20157,Republic County Health Department,KS
+KS078,2016,20167,20167,Russell County Health Department,KS
+KS095,2006,20173,20173,Wichita-Sedgwick County Department Of Community Health,KS
+KS095,2012,20173,20173,Wichita-Sedgwick County Department Of Community Health,KS
+KS095,2014,20173,20173,Wichita-Sedgwick County Department Of Community Health,KS
+KS089,2006,20177,20177,Shawnee County Health Agency,KS
+KS089,2012,20177,20177,Shawnee County Health Agency,KS
+KS089,2014,20177,20177,Shawnee County Health Agency,KS
+KS089,2016,20177,20177,Shawnee County Health Agency,KS
+KS086,2016,20187,20187,Stanton County Health Department,KS
+KS093,2016,20201,20201,Washington County Health Department,KS
+KS094,2014,20203,20203,Wichita County Health Department,KS
+KS098,2014,20209,20209,Wyandotte County Health Department,KS
+KS098,2016,20209,20209,Wyandotte County Health Department,KS
+KY056,2014,21023,21023,Bracken County Health Department,KY
+KY007,2014,21029,21029,Bullitt County Health Department,KY
+KY007,2016,21029,21029,Bullitt County Health Department,KY
+KY028,2014,21067,21067,Lexington-Fayette County Health Department,KY
+KY032,2006,21111,21111,Louisville Metro Health Department,KY
+KY032,2012,21111,21111,Louisville Metro Health Department,KY
+KY032,2014,21111,21111,Louisville Metro Health Department,KY
+KY032,2016,21111,21111,Louisville Metro Health Department,KY
+KY040,2006,21117,21117,Northern Kentucky Independent District,KY
+KY040,2012,21117,21117,Northern Kentucky Independent District,KY
+KY040,2014,21117,21117,Northern Kentucky Independent District,KY
+KY040,2016,21117,21117,Northern Kentucky Independent District,KY
+KY029,2014,21137,21137,Lincoln County Health Department,KY
+KY029,2016,21137,21137,Lincoln County Health Department,KY
+KY036,2014,21159,21159,Martin County Health Department,KY
+KY038,2014,21177,21177,Muhlenberg County Health Department,KY
+KY038,2016,21177,21177,Muhlenberg County Health Department,KY
+KY043,2014,21195,21195,Pike County Health Department,KY
+KY043,2016,21195,21195,Pike County Health Department,KY
+KY010,2006,21203,21203,Cumberland Valley District Health Department,KY
+KY010,2014,21203,21203,Cumberland Valley District Health Department,KY
+KY010,2016,21203,21203,Cumberland Valley District Health Department,KY
+KY016,2014,21205,21205,Gateway District Health Department,KY
+KY016,2016,21205,21205,Gateway District Health Department,KY
+KY042,2016,21221,21221,Pennyrile District Health Department,KY
+KY002,2006,21227,21227,Barren River District Health Department,KY
+KY002,2012,21227,21227,Barren River District Health Department,KY
+KY002,2014,21227,21227,Barren River District Health Department,KY
+KY002,2016,21227,21227,Barren River District Health Department,KY
+KY030,2014,21229,21229,Lincoln Trail District Health Department,KY
+KY030,2016,21229,21229,Lincoln Trail District Health Department,KY
+KY025,2006,21231,21231,Lake Cumberland District Health Department,KY
+KY025,2012,21231,21231,Lake Cumberland District Health Department,KY
+KY025,2014,21231,21231,Lake Cumberland District Health Department,KY
+KY025,2016,21231,21231,Lake Cumberland District Health Department,KY
+KY017,2014,21233,21233,Green River District Health Department,KY
+KY017,2016,21233,21233,Green River District Health Department,KY
+KY051,2014,21235,21235,Whitley County Health Department,KY
+KY051,2016,21235,21235,Whitley County Health Department,KY
+LA024,2012,22053,22053,Office Of Public Health Southwest Region 5,LA
+LA064,2012,22057,22057,Louisiana Region 3 Office Of Public Health,LA
+LA064,2014,22057,22057,Louisiana Region 3 Office Of Public Health,LA
+LA021,2006,22111,22111,"Northeast LA Office Of Public Health, Region 8",LA
+LA021,2016,22111,22111,"Northeast LA Office Of Public Health, Region 8",LA
+LA019,2006,22117,22117,Office Of Public Health-Region 9,LA
+LA017,2014,22125,22125,Office Of Public Health - Region 2,LA
+LA018,2006,22127,22127,Office Of Public Health-Region 6 Central Region (8 Parishes),LA
+LA018,2012,22127,22127,Office Of Public Health-Region 6 Central Region (8 Parishes),LA
+LA018,2014,22127,22127,Office Of Public Health-Region 6 Central Region (8 Parishes),LA
+LA018,2016,22127,22127,Office Of Public Health-Region 6 Central Region (8 Parishes),LA
+ME029,2014,23003,23003,Aroostook Public Health District / Maine CDC,ME
+ME029,2016,23003,23003,Aroostook Public Health District / Maine CDC,ME
+ME009,2014,23005,23005,"City of Portland, Public Health Division",ME
+ME009,2016,23005,23005,"City of Portland, Public Health Division",ME
+MD003,2006,24003,24003,Anne Arundel County Department Of Health,MD
+MD003,2012,24003,24003,Anne Arundel County Department Of Health,MD
+MD003,2016,24003,24003,Anne Arundel County Department Of Health,MD
+MD005,2006,24005,24005,Baltimore County Department Of Health,MD
+MD008,2012,24013,24013,Carroll County Health Department,MD
+MD008,2014,24013,24013,Carroll County Health Department,MD
+MD008,2016,24013,24013,Carroll County Health Department,MD
+MD010,2006,24017,24017,Charles County Health Department,MD
+MD010,2012,24017,24017,Charles County Health Department,MD
+MD010,2014,24017,24017,Charles County Health Department,MD
+MD010,2016,24017,24017,Charles County Health Department,MD
+MD012,2006,24021,24021,Frederick County Health Department,MD
+MD012,2012,24021,24021,Frederick County Health Department,MD
+MD012,2014,24021,24021,Frederick County Health Department,MD
+MD012,2016,24021,24021,Frederick County Health Department,MD
+MD014,2012,24025,24025,Harford County Health Department,MD
+MD014,2014,24025,24025,Harford County Health Department,MD
+MD014,2016,24025,24025,Harford County Health Department,MD
+MD015,2014,24027,24027,Howard County Health Department,MD
+MD017,2006,24031,24031,Montgomery County Department Of Health & Human Services,MD
+MD017,2012,24031,24031,Montgomery County Department Of Health & Human Services,MD
+MD017,2014,24031,24031,Montgomery County Department Of Health & Human Services,MD
+MD017,2016,24031,24031,Montgomery County Department Of Health & Human Services,MD
+MD018,2006,24033,24033,Prince Georges County Health Department,MD
+MD023,2006,24043,24043,Washington County Health Department,MD
+MD023,2012,24043,24043,Washington County Health Department,MD
+MD023,2014,24043,24043,Washington County Health Department,MD
+MD023,2016,24043,24043,Washington County Health Department,MD
+MD024,2016,24045,24045,Wicomico County Health Department,MD
+MD004,2006,24510,24510,Baltimore City Health Department,MD
+MD004,2012,24510,24510,Baltimore City Health Department,MD
+MD004,2014,24510,24510,Baltimore City Health Department,MD
+MD004,2016,24510,24510,Baltimore City Health Department,MD
+MA016,2014,25001,25001,Barnstable County Department Of Health & The Environment,MA
+MA049,2016,25001,25001,Chatham Board of Health,MA
+MA071,2014,25001,25001,Town of Dennis,MA
+MA071,2016,25001,25001,Town of Dennis,MA
+MA088,2014,25003,25003,Egremont Health Department,MA
+MA088,2016,25003,25003,Egremont Health Department,MA
+MA242,2016,25003,25003,Richmond Health Department,MA
+MA285,2014,25007,25007,Tisbury Board of Health,MA
+MA285,2016,25007,25007,Tisbury Board of Health,MA
+MA162,2014,25009,25009,Manchester-by-the-Sea Board of Health,MA
+MA179,2016,25009,25009,Middleton Board of Health,MA
+MA190,2016,25009,25009,Nahant Board of Health,MA
+MA204,2014,25009,25009,North Andover Board of Health,MA
+MA254,2016,25009,25009,Saugus Health Department,MA
+MA287,2016,25009,25009,Topsfield Board of Health,MA
+MA348,2016,25009,25009,City of Beverly Health Department,MA
+MA344,2016,25011,25011,Shelburne Board of Health,MA
+MA186,2014,25013,25013,Monson Board of Health,MA
+MA313,2014,25013,25013,West Springfield Health Department,MA
+MA313,2016,25013,25013,West Springfield Health Department,MA
+MA008,2014,25015,25015,Amherst Health Department,MA
+MA008,2016,25015,25015,Amherst Health Department,MA
+MA022,2016,25017,25017,Belmont Health Department,MA
+MA141,2016,25017,25017,Hopkinton Health Department,MA
+MA153,2016,25017,25017,Lexington Board of Health,MA
+MA155,2014,25017,25017,Lincoln Health Department,MA
+MA157,2014,25017,25017,Lowell Health Department,MA
+MA157,2016,25017,25017,Lowell Health Department,MA
+MA165,2016,25017,25017,Marlborough Health Department,MA
+MA193,2016,25017,25017,Natick Board of Health,MA
+MA305,2014,25017,25017,Weston Health Department,MA
+MA305,2016,25017,25017,Weston Health Department,MA
+MA328,2014,25017,25017,Wilmington Board of Health,MA
+MA194,2014,25021,25021,Needham Health Department,MA
+MA194,2016,25021,25021,Needham Health Department,MA
+MA213,2016,25021,25021,Norwood Board of Health,MA
+MA230,2016,25021,25021,Plainville Health Department,MA
+MA296,2014,25021,25021,Walpole Health Department,MA
+MA296,2016,25021,25021,Walpole Health Department,MA
+MA119,2016,25027,25027,Hardwick Board of Health,MA
+MA142,2014,25027,25027,Hubbardston Health Department,MA
+MA206,2014,25027,25027,North Brookfield Health Department,MA
+MA247,2014,25027,25027,Royalston Board Health Department,MA
+MA266,2014,25027,25027,Southborough Board of Health,MA
+MA266,2016,25027,25027,Southborough Board of Health,MA
+MA283,2014,25027,25027,Templeton Health Department,MA
+MA310,2014,25027,25027,West Brookfield Health Department,MA
+MA310,2016,25027,25027,West Brookfield Health Department,MA
+MA320,2014,25027,25027,Westminster Board of Health,MA
+MA330,2016,25027,25027,Department Of Public Health And Code Enforcement,MA
+MI003,2006,26017,26017,Bay County Health Department,MI
+MI003,2012,26017,26017,Bay County Health Department,MI
+MI003,2014,26017,26017,Bay County Health Department,MI
+MI003,2016,26017,26017,Bay County Health Department,MI
+MI005,2016,26021,26021,Berrien County Health Department,MI
+MI002,2014,26045,26045,Barry-Eaton District Health Department,MI
+MI002,2016,26045,26045,Barry-Eaton District Health Department,MI
+MI019,2006,26049,26049,Genesee County Health Department,MI
+MI019,2012,26049,26049,Genesee County Health Department,MI
+MI019,2014,26049,26049,Genesee County Health Department,MI
+MI019,2016,26049,26049,Genesee County Health Department,MI
+MI036,2006,26057,26057,Mid-Michigan District Health Department,MI
+MI036,2016,26057,26057,Mid-Michigan District Health Department,MI
+MI022,2006,26065,26065,Ingham County Health Department,MI
+MI022,2012,26065,26065,Ingham County Health Department,MI
+MI022,2014,26065,26065,Ingham County Health Department,MI
+MI024,2012,26075,26075,Jackson County Health Department,MI
+MI024,2014,26075,26075,Jackson County Health Department,MI
+MI024,2016,26075,26075,Jackson County Health Department,MI
+MI025,2006,26077,26077,Kalamazoo Human Services Department,MI
+MI025,2016,26077,26077,Kalamazoo Human Services Department,MI
+MI026,2014,26081,26081,Kent County Health Department,MI
+MI026,2016,26081,26081,Kent County Health Department,MI
+MI030,2014,26091,26091,Lenawee County Health Department,MI
+MI030,2016,26091,26091,Lenawee County Health Department,MI
+MI031,2006,26093,26093,Livingston County Health Department,MI
+MI031,2012,26093,26093,Livingston County Health Department,MI
+MI031,2014,26093,26093,Livingston County Health Department,MI
+MI031,2016,26093,26093,Livingston County Health Department,MI
+MI032,2006,26099,26099,Macomb County Health Department,MI
+MI032,2012,26099,26099,Macomb County Health Department,MI
+MI032,2014,26099,26099,Macomb County Health Department,MI
+MI032,2016,26099,26099,Macomb County Health Department,MI
+MI037,2016,26111,26111,Midland County Department of Public Health,MI
+MI038,2006,26115,26115,Monroe County Health Department,MI
+MI038,2012,26115,26115,Monroe County Health Department,MI
+MI036,2012,26117,26117,Mid-Michigan District Health Department,MI
+MI039,2014,26121,26121,Muskegon County Health Department,MI
+MI039,2016,26121,26121,Muskegon County Health Department,MI
+MI040,2012,26125,26125,Oakland County Health Division,MI
+MI040,2014,26125,26125,Oakland County Health Division,MI
+MI040,2016,26125,26125,Oakland County Health Division,MI
+MI050,2016,26131,26131,Western U.P. Health Department,MI
+MI041,2006,26139,26139,Ottawa County Health Department,MI
+MI041,2012,26139,26139,Ottawa County Health Department,MI
+MI041,2014,26139,26139,Ottawa County Health Department,MI
+MI009,2006,26143,26143,Central Michigan District Health Department,MI
+MI009,2014,26143,26143,Central Michigan District Health Department,MI
+MI009,2016,26143,26143,Central Michigan District Health Department,MI
+MI042,2006,26145,26145,Saginaw County Department Of Public Health,MI
+MI042,2012,26145,26145,Saginaw County Department Of Public Health,MI
+MI045,2014,26147,26147,St Clair County Health Department,MI
+MI045,2016,26147,26147,St Clair County Health Department,MI
+MI006,2006,26149,26149,Branch-Hillsdale-St Joseph District Health Department,MI
+MI006,2012,26149,26149,Branch-Hillsdale-St Joseph District Health Department,MI
+MI046,2014,26157,26157,Tuscola County Health Department,MI
+MI046,2016,26157,26157,Tuscola County Health Department,MI
+MI048,2014,26161,26161,Washtenaw County Public Health Department,MI
+MI048,2016,26161,26161,Washtenaw County Public Health Department,MI
+MI013,2006,26163,26163,Detroit Health Department,MI
+MI013,2014,26163,26163,Detroit Health Department,MI
+MI013,2016,26163,26163,Detroit Health Department,MI
+MI049,2006,26163,26163,Wayne County Health Department,MI
+MI049,2016,26163,26163,Wayne County Health Department,MI
+MN002,2006,27003,27003,Anoka County Community Health & Environmental Services Department,MN
+MN002,2012,27003,27003,Anoka County Community Health & Environmental Services Department,MN
+MN002,2016,27003,27003,Anoka County Community Health & Environmental Services Department,MN
+MN007,2016,27019,27019,Carver County Public Health,MN
+MN014,2016,27035,27035,Crow Wing County Health Services,MN
+MN015,2014,27037,27037,Dakota County Public Health Department,MN
+MN015,2016,27037,27037,Dakota County Public Health Department,MN
+MN020,2014,27045,27045,Fillmore County Public Health,MN
+MN020,2016,27045,27045,Fillmore County Public Health,MN
+MN004,2014,27053,27053,Bloomington Division of Public Health,MN
+MN004,2016,27053,27053,Bloomington Division of Public Health,MN
+MN024,2006,27053,27053,Hennepin County Community Health Department,MN
+MN024,2012,27053,27053,Hennepin County Community Health Department,MN
+MN024,2014,27053,27053,Hennepin County Community Health Department,MN
+MN024,2016,27053,27053,Hennepin County Community Health Department,MN
+MN032,2006,27053,27053,Minneapolis Department Health & Family Support,MN
+MN032,2012,27053,27053,Minneapolis Department Health & Family Support,MN
+MN032,2014,27053,27053,Minneapolis Department Health & Family Support,MN
+MN032,2016,27053,27053,Minneapolis Department Health & Family Support,MN
+MN060,2014,27065,27065,Kanabec County Public Health,MN
+MN060,2016,27065,27065,Kanabec County Public Health,MN
+MN038,2014,27109,27109,Olmsted County Public Health Services,MN
+MN038,2016,27109,27109,Olmsted County Public Health Services,MN
+MN039,2014,27111,27111,Otter Tail County Public Health,MN
+MN039,2016,27111,27111,Otter Tail County Public Health,MN
+MN044,2016,27123,27123,Saint Paul-Ramsey County Department Of Public Health,MN
+MN046,2014,27131,27131,Rice County Public Health Nursing Service,MN
+MN046,2016,27131,27131,Rice County Public Health Nursing Service,MN
+MN011,2006,27137,27137,St Louis County Department Of Public Health And Long Term Medical Care,MN
+MN011,2012,27137,27137,St Louis County Department Of Public Health And Long Term Medical Care,MN
+MN011,2016,27137,27137,St Louis County Department Of Public Health And Long Term Medical Care,MN
+MN051,2012,27145,27145,Stearns County Public Health,MN
+MN051,2014,27145,27145,Stearns County Public Health,MN
+MN051,2016,27145,27145,Stearns County Public Health,MN
+MN053,2006,27163,27163,Washington County Department Of Health,MN
+MN053,2012,27163,27163,Washington County Department Of Health,MN
+MN053,2014,27163,27163,Washington County Department Of Health,MN
+MN053,2016,27163,27163,Washington County Department Of Health,MN
+MN003,2014,27167,27167,Wilkin County Public Health,MN
+MN003,2016,27167,27167,Wilkin County Public Health,MN
+MS024,2006,28047,28047,Harrison County Health Department/Biloxi & Gulfport,MS
+MS024,2012,28047,28047,Harrison County Health Department/Biloxi & Gulfport,MS
+MS024,2014,28047,28047,Harrison County Health Department/Biloxi & Gulfport,MS
+MS024,2016,28047,28047,Harrison County Health Department/Biloxi & Gulfport,MS
+MS026,2014,28049,28049,Hinds County Health Department,MS
+MS026,2016,28049,28049,Hinds County Health Department,MS
+MS031,2014,28059,28059,Jackson County Health Department,MS
+MS042,2006,28081,28081,Lee County Health Department,MS
+MS042,2014,28081,28081,Lee County Health Department,MS
+MS042,2016,28081,28081,Lee County Health Department,MS
+MS048,2014,28093,28093,Marshall County Health Department,MS
+MS062,2016,28121,28121,Rankin County Health Department,MS
+MS073,2014,28145,28145,Union County Health Department,MS
+MO002,2014,29003,29003,Andrew County Health Department,MO
+MO002,2016,29003,29003,Andrew County Health Department,MO
+MO004,2014,29007,29007,Audrain City-County Health Unit,MO
+MO004,2016,29007,29007,Audrain City-County Health Unit,MO
+MO006,2016,29011,29011,Barton County Health Department,MO
+MO007,2014,29013,29013,Bates County Health Center,MO
+MO007,2016,29013,29013,Bates County Health Center,MO
+MO025,2012,29019,29019,Columbia/Boone County Health Department,MO
+MO025,2014,29019,29019,Columbia/Boone County Health Department,MO
+MO025,2016,29019,29019,Columbia/Boone County Health Department,MO
+MO100,2014,29021,29021,City of St. Joseph Health Department,MO
+MO100,2016,29021,29021,City of St. Joseph Health Department,MO
+MO011,2016,29023,29023,Butler County Health Department,MO
+MO012,2014,29025,29025,Caldwell County Health Department,MO
+MO012,2016,29025,29025,Caldwell County Health Department,MO
+MO014,2014,29029,29029,Camden County Health Department,MO
+MO014,2016,29029,29029,Camden County Health Department,MO
+MO018,2014,29037,29037,Cass County Health Department,MO
+MO018,2016,29037,29037,Cass County Health Department,MO
+MO019,2014,29041,29041,Chariton County Health Center,MO
+MO022,2006,29047,29047,Clay County Health Center,MO
+MO022,2012,29047,29047,Clay County Health Center,MO
+MO022,2014,29047,29047,Clay County Health Center,MO
+MO022,2016,29047,29047,Clay County Health Center,MO
+MO024,2016,29051,29051,Cole County Health Department,MO
+MO095,2012,29077,29077,Springfield/Greene County Health Department.,MO
+MO095,2014,29077,29077,Springfield/Greene County Health Department.,MO
+MO095,2016,29077,29077,Springfield/Greene County Health Department.,MO
+MO042,2006,29095,29095,City Of Independence Health Department,MO
+MO042,2014,29095,29095,City Of Independence Health Department,MO
+MO049,2014,29095,29095,Kansas City Missouri Health Department,MO
+MO046,2006,29099,29099,Jefferson County Health Department,MO
+MO046,2012,29099,29099,Jefferson County Health Department,MO
+MO046,2014,29099,29099,Jefferson County Health Department,MO
+MO046,2016,29099,29099,Jefferson County Health Department,MO
+MO047,2014,29101,29101,Johnson County Community Health Services,MO
+MO056,2014,29115,29115,Linn County Health Department,MO
+MO056,2016,29115,29115,Linn County Health Department,MO
+MO063,2016,29131,29131,Miller County Health Center,MO
+MO066,2014,29137,29137,Monroe County Health Department,MO
+MO066,2016,29137,29137,Monroe County Health Department,MO
+MO132,2014,29151,29151,Osage County Health Department,MO
+MO132,2016,29151,29151,Osage County Health Department,MO
+MO078,2014,29161,29161,Phelps/Maries County Health Department,MO
+MO078,2016,29161,29161,Phelps/Maries County Health Department,MO
+MO096,2012,29183,29183,St Charles County Department Of Community Health And The Environment,MO
+MO102,2006,29189,29189,St Louis County Department Of Health,MO
+MO102,2014,29189,29189,St Louis County Department Of Health,MO
+MO102,2016,29189,29189,St Louis County Department Of Health,MO
+MO101,2006,29191,29191,City Of Saint Louis Department Of Health And Hospitals,MO
+MO090,2016,29197,29197,Schuyler County Health Department,MO
+MO091,2016,29199,29199,Scotland County Health Department,MO
+MO098,2016,29201,29201,Scott County Health Department,MO
+MO093,2014,29203,29203,Shannon County Health Department,MO
+MO093,2016,29203,29203,Shannon County Health Department,MO
+MO101,2012,29510,29510,City Of Saint Louis Department Of Health And Hospitals,MO
+MO101,2014,29510,29510,City Of Saint Louis Department Of Health And Hospitals,MO
+MT001,2014,30001,30001,Beaverhead County Health Department,MT
+MT001,2016,30001,30001,Beaverhead County Health Department,MT
+MT004,2016,30007,30007,Broadwater County Health Department,MT
+MT007,2014,30011,30011,Carter County Health Department,MT
+MT008,2014,30013,30013,Cascade City-County Health Department,MT
+MT009,2014,30015,30015,Chouteau County Health Department,MT
+MT011,2014,30019,30019,Daniels County,MT
+MT011,2016,30019,30019,Daniels County,MT
+MT013,2014,30023,30023,Deer Lodge County Health Department,MT
+MT016,2016,30029,30029,Flathead City-County Health Department,MT
+MT021,2014,30039,30039,Granite County Health Department,MT
+MT021,2016,30039,30039,Granite County Health Department,MT
+MT026,2016,30047,30047,Lake County Public Health,MT
+MT027,2014,30049,30049,Lewis and Clark City-County Health Department,MT
+MT027,2016,30049,30049,Lewis and Clark City-County Health Department,MT
+MT031,2014,30055,30055,McCone County Health Department,MT
+MT031,2016,30055,30055,McCone County Health Department,MT
+MT030,2014,30057,30057,Madison County Health Department,MT
+MT030,2016,30057,30057,Madison County Health Department,MT
+MT032,2016,30059,30059,Meagher County Health Department,MT
+MT040,2014,30075,30075,Powder River County Health Department,MT
+MT044,2014,30083,30083,Richland County Health Department,MT
+MT044,2016,30083,30083,Richland County Health Department,MT
+MT046,2014,30087,30087,Rosebud County Health Department,MT
+MT047,2016,30089,30089,Sanders County Health Department,MT
+MT048,2014,30091,30091,Sheridan County Health Department,MT
+MT048,2016,30091,30091,Sheridan County Health Department,MT
+MT050,2014,30097,30097,Sweet Grass County Health Department,MT
+MT053,2014,30105,30105,Valley County Health Department,MT
+MT053,2016,30105,30105,Valley County Health Department,MT
+MT015,2016,30107,30107,Central Montana Health District Public Health,MT
+MT056,2014,30111,30111,Yellowstone City-County Health Department,MT
+NE004,2006,31055,31055,Douglas County Health Department,NE
+NE004,2012,31055,31055,Douglas County Health Department,NE
+NE004,2016,31055,31055,Douglas County Health Department,NE
+NE031,2014,31137,31137,Two Rivers Public Health Department,NE
+NE031,2016,31137,31137,Two Rivers Public Health Department,NE
+NE030,2014,31145,31145,Southwest Nebraska Public Health Department,NE
+NE030,2016,31145,31145,Southwest Nebraska Public Health Department,NE
+NE019,2014,31157,31157,Scotts Bluff County Health Department,NE
+NE019,2016,31157,31157,Scotts Bluff County Health Department,NE
+NE027,2016,31165,31165,Panhandle Public Health Department,NE
+NE008,2014,31167,31167,Elkhorn Logan Valley Health Department,NE
+NE008,2016,31167,31167,Elkhorn Logan Valley Health Department,NE
+NE020,2006,31181,31181,Lincoln Lancaster County Health Department,NE
+NE020,2012,31181,31181,Lincoln Lancaster County Health Department,NE
+NE020,2014,31181,31181,Lincoln Lancaster County Health Department,NE
+NE020,2016,31181,31181,Lincoln Lancaster County Health Department,NE
+NV001,2006,32003,32003,Clark County Health District,NV
+NV001,2012,32003,32003,Clark County Health District,NV
+NV001,2014,32003,32003,Clark County Health District,NV
+NV001,2016,32003,32003,Clark County Health District,NV
+NV002,2006,32031,32031,Washoe County District Health Department,NV
+NV002,2012,32031,32031,Washoe County District Health Department,NV
+NV002,2014,32031,32031,Washoe County District Health Department,NV
+NV002,2016,32031,32031,Washoe County District Health Department,NV
+NH008,2006,33011,33011,Manchester Health Department,NH
+NH008,2012,33011,33011,Manchester Health Department,NH
+NH008,2014,33011,33011,Manchester Health Department,NH
+NH008,2016,33011,33011,Manchester Health Department,NH
+NH010,2016,33011,33011,Nashua Division of Public Health and Community Services,NH
+NJ079,2014,34003,34003,Palisades Park Health Department,NJ
+NJ079,2016,34003,34003,Palisades Park Health Department,NJ
+NJ114,2014,34003,34003,Township of Washington Local Health Agency,NJ
+NJ011,2006,34005,34005,Burlington County Health Department,NJ
+NJ011,2012,34005,34005,Burlington County Health Department,NJ
+NJ011,2014,34005,34005,Burlington County Health Department,NJ
+NJ011,2016,34005,34005,Burlington County Health Department,NJ
+NJ012,2006,34007,34007,Camden County Division Of Health,NJ
+NJ012,2016,34007,34007,Camden County Division Of Health,NJ
+NJ013,2016,34009,34009,Cape May County Department of Health,NJ
+NJ018,2006,34013,34013,Cumberland County Health Department,NJ
+NJ018,2012,34013,34013,Cumberland County Health Department,NJ
+NJ018,2014,34013,34013,Cumberland County Health Department,NJ
+NJ018,2016,34013,34013,Cumberland County Health Department,NJ
+NJ060,2016,34013,34013,Township of Maplewood Health Department,NJ
+NJ075,2016,34013,34013,Newark Department Of Health & Human Service,NJ
+NJ036,2012,34015,34015,Gloucester County Health Department,NJ
+NJ036,2014,34015,34015,Gloucester County Health Department,NJ
+NJ049,2014,34017,34017,Jersey City Division Of Health,NJ
+NJ049,2016,34017,34017,Jersey City Division Of Health,NJ
+NJ128,2016,34017,34017,North Bergen Health Department,NJ
+NJ046,2006,34019,34019,Hunterdon County Health Department,NJ
+NJ038,2016,34021,34021,Hamilton Township Division of Health,NJ
+NJ085,2014,34021,34021,Lawrence Township Health Department,NJ
+NJ085,2016,34021,34021,Lawrence Township Health Department,NJ
+NJ138,2016,34021,34021,West Windsor Health Department,NJ
+NJ064,2006,34023,34023,Middlesex County Public Health Department,NJ
+NJ064,2016,34023,34023,Middlesex County Public Health Department,NJ
+NJ067,2012,34025,34025,,NJ
+NJ135,2006,34025,34025,Monmouth County Regional Health Commission No 1,NJ
+NJ135,2014,34025,34025,Monmouth County Regional Health Commission No 1,NJ
+NJ135,2016,34025,34025,Monmouth County Regional Health Commission No 1,NJ
+NJ058,2014,34027,34027,Madison Health Department,NJ
+NJ073,2014,34027,34027,Mount Olive Township Health Department,NJ
+NJ073,2016,34027,34027,Mount Olive Township Health Department,NJ
+NJ056,2014,34029,34029,Long Beach Island Health Department,NJ
+NJ056,2016,34029,34029,Long Beach Island Health Department,NJ
+NJ077,2006,34029,34029,Ocean County Health Department,NJ
+NJ077,2012,34029,34029,Ocean County Health Department,NJ
+NJ077,2014,34029,34029,Ocean County Health Department,NJ
+NJ008,2016,34031,34031,Bloomfield Health Department,NJ
+NJ083,2012,34031,34031,Passaic County Department Of Health,NJ
+NJ083,2014,34031,34031,Passaic County Department Of Health,NJ
+NJ083,2016,34031,34031,Passaic County Department Of Health,NJ
+NJ084,2006,34031,34031,Paterson Division Of Health,NJ
+NJ084,2012,34031,34031,Paterson Division Of Health,NJ
+NJ007,2016,34035,34035,Bernards Township Health Department,NJ
+NJ063,2014,34035,34035,Middle-Brook Regional Health Commission,NJ
+NJ063,2016,34035,34035,Middle-Brook Regional Health Commission,NJ
+NJ122,2012,34035,34035,Somerset County Health Department,NJ
+NJ122,2014,34035,34035,Somerset County Health Department,NJ
+NJ122,2016,34035,34035,Somerset County Health Department,NJ
+NJ027,2012,34039,34039,"City of Elizabeth, Department Of Health And Human Services",NJ
+NJ027,2016,34039,34039,"City of Elizabeth, Department Of Health And Human Services",NJ
+NM014,2014,35041,35041,Department Of Health/Public Health District IV (Southeast Region),NM
+NM012,2012,35059,35059,New Mexico Public Health Division District 2,NM
+NM012,2014,35059,35059,New Mexico Public Health Division District 2,NM
+NY001,2014,36001,36001,Albany County Department Of Health,NY
+NY003,2014,36007,36007,Broome County Health Department,NY
+NY003,2016,36007,36007,Broome County Health Department,NY
+NY004,2016,36009,36009,Cattaraugus County Department of Health,NY
+NY005,2014,36011,36011,Cayuga County Department of Health and Human Services,NY
+NY005,2016,36011,36011,Cayuga County Department of Health and Human Services,NY
+NY006,2012,36013,36013,Chautauqua County Department Of Health,NY
+NY006,2014,36013,36013,Chautauqua County Department Of Health,NY
+NY006,2016,36013,36013,Chautauqua County Department Of Health,NY
+NY007,2014,36015,36015,Chemung County Health Department,NY
+NY007,2016,36015,36015,Chemung County Health Department,NY
+NY008,2014,36017,36017,Chenango County Public Health,NY
+NY008,2016,36017,36017,Chenango County Public Health,NY
+NY009,2014,36019,36019,Clinton County Department of Public Health,NY
+NY009,2016,36019,36019,Clinton County Department of Public Health,NY
+NY010,2016,36021,36021,Columbia County Department of Health,NY
+NY013,2006,36027,36027,Dutchess County Health Department,NY
+NY013,2012,36027,36027,Dutchess County Health Department,NY
+NY013,2014,36027,36027,Dutchess County Health Department,NY
+NY014,2012,36029,36029,Erie County Department Of Health,NY
+NY014,2014,36029,36029,Erie County Department Of Health,NY
+NY014,2016,36029,36029,Erie County Department Of Health,NY
+NY015,2014,36031,36031,Essex County Public Health Department,NY
+NY015,2016,36031,36031,Essex County Public Health Department,NY
+NY016,2016,36033,36033,Franklin County Public Health Services,NY
+NY022,2014,36045,36045,Jefferson County Public Health Service,NY
+NY022,2016,36045,36045,Jefferson County Public Health Service,NY
+NY024,2014,36051,36051,Livingston County Department of Health,NY
+NY024,2016,36051,36051,Livingston County Department of Health,NY
+NY025,2014,36053,36053,Madison County Health Department,NY
+NY025,2016,36053,36053,Madison County Health Department,NY
+NY026,2006,36055,36055,Monroe County Health Department,NY
+NY026,2012,36055,36055,Monroe County Health Department,NY
+NY026,2014,36055,36055,Monroe County Health Department,NY
+NY026,2016,36055,36055,Monroe County Health Department,NY
+NY028,2016,36059,36059,Nassau County Department Of Health,NY
+NY029,2006,36061,36061,New York City Department Of Health,NY
+NY030,2012,36063,36063,Niagara County Health Department,NY
+NY031,2006,36065,36065,Oneida County Health Department,NY
+NY031,2012,36065,36065,Oneida County Health Department,NY
+NY031,2014,36065,36065,Oneida County Health Department,NY
+NY031,2016,36065,36065,Oneida County Health Department,NY
+NY032,2006,36067,36067,Onondaga County Health Department,NY
+NY032,2012,36067,36067,Onondaga County Health Department,NY
+NY032,2014,36067,36067,Onondaga County Health Department,NY
+NY032,2016,36067,36067,Onondaga County Health Department,NY
+NY060,2016,36071,36071,Orange County Department Of Health,NY
+NY036,2014,36075,36075,Oswego County Health Department,NY
+NY036,2016,36075,36075,Oswego County Health Department,NY
+NY035,2014,36077,36077,Otsego County,NY
+NY035,2016,36077,36077,Otsego County,NY
+NY037,2014,36079,36079,Putnam County Health Department,NY
+NY029,2016,36081,36081,New York City Department Of Health,NY
+NY039,2006,36083,36083,Rensselaer County Health Department,NY
+NY039,2012,36083,36083,Rensselaer County Health Department,NY
+NY039,2014,36083,36083,Rensselaer County Health Department,NY
+NY039,2016,36083,36083,Rensselaer County Health Department,NY
+NY029,2012,36085,36085,New York City Department Of Health,NY
+NY040,2006,36087,36087,Rockland County Health Department,NY
+NY040,2012,36087,36087,Rockland County Health Department,NY
+NY040,2014,36087,36087,Rockland County Health Department,NY
+NY040,2016,36087,36087,Rockland County Health Department,NY
+NY047,2014,36089,36089,St Lawerence County Public Health,NY
+NY047,2016,36089,36089,St Lawerence County Public Health,NY
+NY041,2014,36091,36091,Saratoga County Public Health Nursing Service,NY
+NY041,2016,36091,36091,Saratoga County Public Health Nursing Service,NY
+NY043,2006,36093,36093,Schenectady County Public Health Services,NY
+NY043,2012,36093,36093,Schenectady County Public Health Services,NY
+NY046,2014,36099,36099,Seneca County Health Department,NY
+NY048,2016,36101,36101,Steuben County Public Health and Nursing Services,NY
+NY049,2012,36103,36103,Suffolk County Department Of Health Services,NY
+NY049,2014,36103,36103,Suffolk County Department Of Health Services,NY
+NY049,2016,36103,36103,Suffolk County Department Of Health Services,NY
+NY050,2014,36105,36105,Sullivan County Public Health Services,NY
+NY050,2016,36105,36105,Sullivan County Public Health Services,NY
+NY056,2016,36117,36117,Wayne County Public Health Service,NY
+NY057,2006,36119,36119,Westchester County Department Of Health,NY
+NY057,2012,36119,36119,Westchester County Department Of Health,NY
+NY057,2014,36119,36119,Westchester County Department Of Health,NY
+NY058,2016,36121,36121,Wyoming County Health Department,NY
+NY059,2014,36123,36123,Yates County Public Health Department,NY
+NY059,2016,36123,36123,Yates County Public Health Department,NY
+NC001,2006,37001,37001,Alamance County Health Department,NC
+NC001,2012,37001,37001,Alamance County Health Department,NC
+NC001,2014,37001,37001,Alamance County Health Department,NC
+NC007,2014,37017,37017,Bladen County Health Department,NC
+NC007,2016,37017,37017,Bladen County Health Department,NC
+NC009,2014,37021,37021,Buncombe County Health Department,NC
+NC009,2016,37021,37021,Buncombe County Health Department,NC
+NC010,2014,37023,37023,Burke County Health Department,NC
+NC010,2016,37023,37023,Burke County Health Department,NC
+NC011,2006,37025,37025,Cabarrus Public Health Authority,NC
+NC011,2012,37025,37025,Cabarrus Public Health Authority,NC
+NC011,2016,37025,37025,Cabarrus Public Health Authority,NC
+NC014,2006,37035,37035,Catawba County Department Of Public Health,NC
+NC014,2012,37035,37035,Catawba County Department Of Public Health,NC
+NC014,2014,37035,37035,Catawba County Department Of Public Health,NC
+NC014,2016,37035,37035,Catawba County Department Of Public Health,NC
+NC015,2014,37037,37037,Chatham County Public Health Department,NC
+NC015,2016,37037,37037,Chatham County Public Health Department,NC
+NC020,2014,37049,37049,Craven County Health Department,NC
+NC020,2016,37049,37049,Craven County Health Department,NC
+NC021,2006,37051,37051,E Newton Smith Public Health Center/ Cumberland County Health Department,NC
+NC021,2012,37051,37051,E Newton Smith Public Health Center/ Cumberland County Health Department,NC
+NC021,2014,37051,37051,E Newton Smith Public Health Center/ Cumberland County Health Department,NC
+NC021,2016,37051,37051,E Newton Smith Public Health Center/ Cumberland County Health Department,NC
+NC024,2006,37053,37053,Davidson County Health Department,NC
+NC024,2012,37057,37057,Davidson County Health Department,NC
+NC024,2014,37057,37057,Davidson County Health Department,NC
+NC024,2016,37057,37057,Davidson County Health Department,NC
+NC025,2014,37059,37059,Davie County Health Department,NC
+NC025,2016,37059,37059,Davie County Health Department,NC
+NC027,2006,37063,37063,Durham County Health Department,NC
+NC027,2014,37063,37063,Durham County Health Department,NC
+NC027,2016,37063,37063,Durham County Health Department,NC
+NC028,2014,37065,37065,Edgecombe County Health Department,NC
+NC028,2016,37065,37065,Edgecombe County Health Department,NC
+NC029,2012,37067,37067,Forsyth County Department Of Public Health,NC
+NC030,2014,37069,37069,Franklin County Health Department,NC
+NC030,2016,37069,37069,Franklin County Health Department,NC
+NC031,2006,37071,37071,Gaston County Health Department,NC
+NC031,2012,37071,37071,Gaston County Health Department,NC
+NC031,2014,37071,37071,Gaston County Health Department,NC
+NC031,2016,37071,37071,Gaston County Health Department,NC
+NC089,2014,37075,37075,Graham County Health Department,NC
+NC035,2006,37081,37081,Guilford County Department Of Public Health,NC
+NC035,2012,37081,37081,Guilford County Department Of Public Health,NC
+NC035,2014,37081,37081,Guilford County Department Of Public Health,NC
+NC035,2016,37081,37081,Guilford County Department Of Public Health,NC
+NC042,2014,37095,37095,Hyde County Health Department,NC
+NC043,2006,37097,37097,Iredell County Health Department,NC
+NC043,2012,37097,37097,Iredell County Health Department,NC
+NC043,2014,37097,37097,Iredell County Health Department,NC
+NC043,2016,37097,37097,Iredell County Health Department,NC
+NC048,2014,37107,37107,Lenoir County Health Department,NC
+NC053,2006,37119,37119,Mecklenburg County Health Department,NC
+NC053,2012,37119,37119,Mecklenburg County Health Department,NC
+NC053,2014,37119,37119,Mecklenburg County Health Department,NC
+NC053,2016,37119,37119,Mecklenburg County Health Department,NC
+NC057,2006,37129,37129,New Hanover County Health Department,NC
+NC057,2012,37129,37129,New Hanover County Health Department,NC
+NC059,2006,37133,37133,Onslow County Health Department,NC
+NC059,2012,37133,37133,Onslow County Health Department,NC
+NC059,2014,37133,37133,Onslow County Health Department,NC
+NC059,2016,37133,37133,Onslow County Health Department,NC
+NC060,2006,37135,37135,Orange County Health Department,NC
+NC060,2012,37135,37135,Orange County Health Department,NC
+NC060,2014,37135,37135,Orange County Health Department,NC
+NC060,2016,37135,37135,Orange County Health Department,NC
+NC063,2014,37141,37141,Pender County Health Department,NC
+NC063,2016,37141,37141,Pender County Health Department,NC
+NC065,2016,37147,37147,Pitt County Health Department,NC
+NC066,2006,37151,37151,Randolph County Health Department,NC
+NC066,2012,37151,37151,Randolph County Health Department,NC
+NC066,2014,37151,37151,Randolph County Health Department,NC
+NC066,2016,37151,37151,Randolph County Health Department,NC
+NC068,2006,37155,37155,Robeson County Health Department,NC
+NC068,2012,37155,37155,Robeson County Health Department,NC
+NC068,2014,37155,37155,Robeson County Health Department,NC
+NC068,2016,37155,37155,Robeson County Health Department,NC
+NC070,2006,37159,37159,Rowan County Health Department,NC
+NC070,2014,37159,37159,Rowan County Health Department,NC
+NC071,2014,37161,37161,Rutherford-Polk-Mcdowell Dist Health Department,NC
+NC071,2016,37161,37161,Rutherford-Polk-Mcdowell Dist Health Department,NC
+NC076,2016,37171,37171,Surry County Health & Nutrition Center,NC
+NC080,2006,37179,37179,Union County Health Department,NC
+NC080,2012,37179,37179,Union County Health Department,NC
+NC080,2016,37179,37179,Union County Health Department,NC
+NC081,2014,37183,37183,Wake County Human Services,NC
+NC083,2006,37191,37191,Wayne County Health Department,NC
+NC083,2012,37191,37191,Wayne County Health Department,NC
+NC083,2016,37191,37191,Wayne County Health Department,NC
+NC084,2014,37193,37193,Wilkes County Health Department,NC
+NC084,2016,37193,37193,Wilkes County Health Department,NC
+NC078,2014,37199,37199,Toe River District,NC
+NC078,2016,37199,37199,Toe River District,NC
+ND003,2014,38003,38003,City-County Health Department,ND
+ND003,2016,38003,38003,City-County Health Department,ND
+ND006,2006,38017,38017,Fargo Cass Public Health,ND
+ND006,2012,38017,38017,Fargo Cass Public Health,ND
+ND006,2014,38017,38017,Fargo Cass Public Health,ND
+ND006,2016,38017,38017,Fargo Cass Public Health,ND
+ND024,2014,38019,38019,Cavalier County Health District,ND
+ND024,2016,38019,38019,Cavalier County Health District,ND
+ND005,2014,38029,38029,Emmons County Public Health,ND
+ND005,2016,38029,38029,Emmons County Public Health,ND
+ND009,2014,38035,38035,Grand Forks Public Health,ND
+ND018,2016,38089,38089,Southwestern District Health Unit,ND
+OH003,2006,39003,39003,Allen County Combined Health District,OH
+OH003,2014,39003,39003,Allen County Combined Health District,OH
+OH003,2016,39003,39003,Allen County Combined Health District,OH
+OH008,2014,39009,39009,Athens County Health Department,OH
+OH008,2016,39009,39009,Athens County Health Department,OH
+OH024,2016,39021,39021,Champaign County Health District,OH
+OH027,2006,39023,39023,Clark County Combined Health District,OH
+OH027,2012,39023,39023,Clark County Combined Health District,OH
+OH027,2014,39023,39023,Clark County Combined Health District,OH
+OH027,2016,39023,39023,Clark County Combined Health District,OH
+OH028,2006,39025,39025,Clermont County General Health District,OH
+OH028,2012,39025,39025,Clermont County General Health District,OH
+OH028,2014,39025,39025,Clermont County General Health District,OH
+OH028,2016,39025,39025,Clermont County General Health District,OH
+OH031,2006,39027,39027,Clinton County Health Department,OH
+OH031,2016,39027,39027,Clinton County Health Department,OH
+OH029,2006,39035,39035,City Of Cleveland Department Of Public Health,OH
+OH029,2012,39035,39035,City Of Cleveland Department Of Public Health,OH
+OH029,2014,39035,39035,City Of Cleveland Department Of Public Health,OH
+OH029,2016,39035,39035,City Of Cleveland Department Of Public Health,OH
+OH037,2006,39035,39035,Cuyahoga County District Board Of Health,OH
+OH037,2012,39035,39035,Cuyahoga County District Board Of Health,OH
+OH037,2014,39035,39035,Cuyahoga County District Board Of Health,OH
+OH037,2016,39035,39035,Cuyahoga County District Board Of Health,OH
+OH038,2014,39037,39037,Darke County Health District,OH
+OH038,2016,39037,39037,Darke County Health District,OH
+OH045,2014,39043,39043,Erie County Health District,OH
+OH045,2016,39043,39043,Erie County Health District,OH
+OH033,2006,39049,39049,Columbus Health Department,OH
+OH033,2012,39049,39049,Columbus Health Department,OH
+OH033,2014,39049,39049,Columbus Health Department,OH
+OH033,2016,39049,39049,Columbus Health Department,OH
+OH049,2014,39049,39049,Franklin County Health Department,OH
+OH057,2014,39057,39057,Greene County Combined Health District,OH
+OH057,2016,39057,39057,Greene County Combined Health District,OH
+OH025,2016,39061,39061,The Cincinnati Health Department,OH
+OH060,2012,39061,39061,Hamilton County General Health District,OH
+OH060,2014,39061,39061,Hamilton County General Health District,OH
+OH073,2014,39083,39083,Knox County Health District,OH
+OH073,2016,39083,39083,Knox County Health District,OH
+OH074,2012,39085,39085,Lake County General Health District,OH
+OH074,2014,39085,39085,Lake County General Health District,OH
+OH074,2016,39085,39085,Lake County General Health District,OH
+OH068,2016,39087,39087,,OH
+OH044,2014,39093,39093,Elyria City Health Department,OH
+OH044,2016,39093,39093,Elyria City Health Department,OH
+OH082,2006,39093,39093,Lorain County Health Department,OH
+OH082,2012,39093,39093,Lorain County Health Department,OH
+OH082,2014,39093,39093,Lorain County Health Department,OH
+OH083,2012,39095,39095,Lucas County Health Department,OH
+OH083,2016,39095,39095,Lucas County Health Department,OH
+OH085,2006,39099,39099,Mahoning County Board Of Health,OH
+OH085,2012,39099,39099,Mahoning County Board Of Health,OH
+OH085,2014,39099,39099,Mahoning County Board Of Health,OH
+OH085,2016,39099,39099,Mahoning County Board Of Health,OH
+OH157,2014,39101,39101,Marion County Health Department,OH
+OH157,2016,39101,39101,Marion County Health Department,OH
+OH092,2006,39103,39103,Medina County Health Department,OH
+OH092,2014,39103,39103,Medina County Health Department,OH
+OH092,2016,39103,39103,Medina County Health Department,OH
+OH099,2014,39113,39113,Combined Health District Of Montgomery County Ohio,OH
+OH153,2014,39119,39119,Zanesville-Muskingum County Health Department,OH
+OH153,2016,39119,39119,Zanesville-Muskingum County Health Department,OH
+OH115,2012,39133,39133,Portage County Combined General Health District,OH
+OH115,2014,39133,39133,Portage County Combined General Health District,OH
+OH115,2016,39133,39133,Portage County Combined General Health District,OH
+OH128,2016,39139,39139,Shelby City Health Department,OH
+OH132,2006,39151,39151,Stark County Health Department,OH
+OH132,2012,39151,39151,Stark County Health Department,OH
+OH132,2014,39151,39151,Stark County Health Department,OH
+OH002,2006,39153,39153,,OH
+OH135,2006,39153,39153,Summit County General Health District,OH
+OH135,2012,39153,39153,Summit County General Health District,OH
+OH135,2014,39153,39153,Summit County General Health District,OH
+OH135,2016,39153,39153,,
+OH136,2014,39153,39153,Summit County Health Department,OH
+OH139,2016,39155,39155,Trumbull County Health Department,OH
+OH145,2006,39165,39165,Warren County Combined Health District,OH
+OH145,2012,39165,39165,Warren County Combined Health District,OH
+OH145,2014,39165,39165,Warren County Combined Health District,OH
+OH145,2016,39165,39165,Warren County Combined Health District,OH
+OH015,2016,39167,39167,Belpre City Health Department,OH
+OH149,2014,39171,39171,Williams County Health District,OH
+OH149,2016,39171,39171,Williams County Health District,OH
+OH150,2006,39173,39173,Wood County Health Department,OH
+OH150,2012,39173,39173,Wood County Health Department,OH
+OH150,2014,39173,39173,Wood County Health Department,OH
+OH150,2016,39173,39173,Wood County Health Department,OH
+OK004,2014,40007,40007,Beaver County Health Department,OK
+OK004,2016,40007,40007,Beaver County Health Department,OK
+OK006,2014,40011,40011,Blaine County Health Department,OK
+OK006,2016,40011,40011,Blaine County Health Department,OK
+OK014,2006,40027,40027,Cleveland County Health Department,OK
+OK014,2012,40027,40027,Cleveland County Health Department,OK
+OK016,2016,40031,40031,Comanche County Health Department,OK
+OK019,2014,40037,40037,Creek County Health Department,OK
+OK019,2016,40037,40037,Creek County Health Department,OK
+OK024,2016,40047,40047,Garfield County Health Department,OK
+OK028,2014,40055,40055,Greer County Health Department,OK
+OK053,2014,40059,40059,Harper County Health Department,OK
+OK053,2016,40059,40059,Harper County Health Department,OK
+OK037,2014,40073,40073,Kingfisher County Health Department,OK
+OK037,2016,40073,40073,Kingfisher County Health Department,OK
+OK040,2016,40079,40079,LeFlore County Health Department,OK
+OK044,2016,40093,40093,Major County Health Department,OK
+OK055,2014,40109,40109,City-County Health Department Of Oklahoma County,OK
+OK055,2016,40109,40109,City-County Health Department Of Oklahoma County,OK
+OK060,2014,40119,40119,Payne County Health Department,OK
+OK060,2016,40119,40119,Payne County Health Department,OK
+OK071,2016,40141,40141,Tillman County Health Department,OK
+OK072,2006,40143,40143,Tulsa City-County Health Department,OK
+OK072,2012,40143,40143,Tulsa City-County Health Department,OK
+OK072,2014,40143,40143,Tulsa City-County Health Department,OK
+OK072,2016,40143,40143,Tulsa City-County Health Department,OK
+OK074,2016,40147,40147,Washington County Health Department,OK
+OK076,2016,40151,40151,Woods County Health Department,OK
+OR001,2014,41001,41001,Baker County Health Department,OR
+OR001,2016,41001,41001,Baker County Health Department,OR
+OR002,2014,41003,41003,Benton County Health Department,OR
+OR002,2016,41003,41003,Benton County Health Department,OR
+OR003,2006,41005,41005,Clackamas County Public Health Division,OR
+OR003,2012,41005,41005,Clackamas County Public Health Division,OR
+OR003,2014,41005,41005,Clackamas County Public Health Division,OR
+OR003,2016,41005,41005,Clackamas County Public Health Division,OR
+OR004,2014,41007,41007,Clatsop County Department of Public Health,OR
+OR004,2016,41007,41007,Clatsop County Department of Public Health,OR
+OR006,2014,41011,41011,Coos County Health Department,OR
+OR006,2016,41011,41011,Coos County Health Department,OR
+OR010,2014,41019,41019,Douglas County Health and Social Services,OR
+OR010,2016,41019,41019,Douglas County Health and Social Services,OR
+OR014,2014,41027,41027,Hood River County Health Department,OR
+OR014,2016,41027,41027,Hood River County Health Department,OR
+OR035,2016,41029,41029,Jackson County Health Department,OR
+OR016,2014,41033,41033,Josephine County Public Health Department,OR
+OR017,2016,41035,41035,Klamath County Department of Public Health,OR
+OR019,2006,41039,41039,Lane County Public Health Services,OR
+OR019,2016,41039,41039,Lane County Public Health Services,OR
+OR021,2014,41043,41043,Linn County Department Of Health Services Public Health Programs,OR
+OR021,2016,41043,41043,Linn County Department Of Health Services Public Health Programs,OR
+OR034,2016,41045,41045,Malheur County Health Department,OR
+OR022,2012,41047,41047,Marion County Health Department,OR
+OR024,2012,41051,41051,Multnomah County Health Department,OR
+OR024,2016,41051,41051,Multnomah County Health Department,OR
+OR025,2016,41053,41053,Polk County Public Health,OR
+OR027,2016,41059,41059,Umatilla County Public Health Department,OR
+OR030,2014,41065,41065,North Central Public Health District,OR
+OR030,2016,41065,41065,North Central Public Health District,OR
+OR031,2006,41067,41067,Washington County Health & Human Svcs,OR
+OR031,2014,41067,41067,Washington County Health & Human Svcs,OR
+OR031,2016,41067,41067,Washington County Health & Human Svcs,OR
+PA001,2014,42003,42003,Allegheny County Health Department,PA
+PA001,2016,42003,42003,Allegheny County Health Department,PA
+PA004,2006,42017,42017,Bucks County Health Department,PA
+PA005,2006,42029,42029,Chester County Health Department,PA
+PA005,2012,42029,42029,Chester County Health Department,PA
+PA005,2014,42029,42029,Chester County Health Department,PA
+PA007,2006,42049,42049,Erie County Department Of Health,PA
+PA007,2012,42049,42049,Erie County Department Of Health,PA
+PA007,2014,42049,42049,Erie County Department Of Health,PA
+PA007,2016,42049,42049,Erie County Department Of Health,PA
+PA002,2006,42077,42077,Allentown Health Bureau,PA
+PA002,2012,42077,42077,Allentown Health Bureau,PA
+PA002,2014,42077,42077,Allentown Health Bureau,PA
+PA002,2016,42077,42077,Allentown Health Bureau,PA
+PA012,2006,42091,42091,Montgomery County Health Department,PA
+PA012,2012,42091,42091,Montgomery County Health Department,PA
+PA012,2016,42091,42091,Montgomery County Health Department,PA
+PA003,2016,42095,42095,Bethlehem City Bureau of Health,PA
+PA016,2014,42101,42101,Philadelphia Department Of Public Health,PA
+PA016,2016,42101,42101,Philadelphia Department Of Public Health,PA
+SC007,2006,45013,45013,Region 8 Health District,SC
+SC005,2014,45017,45017,Edisto Health District,SC
+SC014,2006,45019,45019,Region 7 Health District,SC
+SC014,2016,45019,45019,Region 7 Health District,SC
+SC014,2012,45035,45035,Region 7 Health District,SC
+SC010,2014,45041,45041,"Region 4 Health District, Florence county",SC
+SC010,2016,45041,45041,"Region 4 Health District, Florence county",SC
+SC003,2006,45045,45045,Public Health Region 2,SC
+SC003,2012,45045,45045,Public Health Region 2,SC
+SC003,2014,45045,45045,Public Health Region 2,SC
+SC019,2014,45057,45057,Lancaster Health Department (formerly Catawba Public Health District),SC
+SC009,2006,45063,45063,Region 3 Public Health Office,SC
+SC009,2012,45063,45063,Region 3 Public Health Office,SC
+SC009,2016,45063,45063,Region 3 Public Health Office,SC
+SC001,2006,45065,45065,Region 1 Public Health Office,SC
+SC020,2006,45085,45085,"Region 4 Health District, Sumter",SC
+SC002,2006,45087,45087,Appalachia II Public Health District,SC
+SC002,2016,45087,45087,Appalachia II Public Health District,SC
+SC016,2012,45089,45089,Region 6 Health District,SC
+SD006,2014,46099,46099,Sioux Falls City Health Department,SD
+SD006,2016,46099,46099,Sioux Falls City Health Department,SD
+TN001,2014,47001,47001,Anderson County Health Department,TN
+TN001,2016,47001,47001,Anderson County Health Department,TN
+TN020,2006,47037,47037,Nashville Davidson County Health Department,TN
+TN020,2012,47037,47037,Nashville Davidson County Health Department,TN
+TN020,2014,47037,47037,Nashville Davidson County Health Department,TN
+TN020,2016,47037,47037,Nashville Davidson County Health Department,TN
+TN023,2014,47043,47043,Dickson County Health Department,TN
+TN035,2014,47061,47061,Grundy County Health Department,TN
+TN011,2006,47065,47065,Chattanooga-Hamilton County Health Department,TN
+TN051,2006,47093,47093,Knox County Health Department,TN
+TN051,2012,47093,47093,Knox County Health Department,TN
+TN051,2014,47093,47093,Knox County Health Department,TN
+TN051,2016,47093,47093,Knox County Health Department,TN
+TN078,2014,47145,47145,Roane County Health Department,TN
+TN078,2016,47145,47145,Roane County Health Department,TN
+TN082,2014,47151,47151,Scott County Health Department,TN
+TN082,2016,47151,47151,Scott County Health Department,TN
+TN066,2016,47157,47157,Memphis & Shelby County Health Department,TN
+TN089,2014,47167,47167,Tipton County Health Department,TN
+TX010,2014,48027,48027,Bell County Public Health District,TX
+TX171,2006,48029,48029,San Antonio Metropolitan Health District,TX
+TX171,2012,48029,48029,San Antonio Metropolitan Health District,TX
+TX171,2014,48029,48029,San Antonio Metropolitan Health District,TX
+TX171,2016,48029,48029,San Antonio Metropolitan Health District,TX
+TX112,2006,48041,48041,Brazos County Health District,TX
+TX112,2012,48041,48041,Brazos County Health District,TX
+TX112,2014,48041,48041,Brazos County Health District,TX
+TX112,2016,48041,48041,Brazos County Health District,TX
+TX113,2014,48049,48049,Brownwood-Brown County Health Department,TX
+TX114,2014,48057,48057,Calhoun County Health Department,TX
+TX115,2014,48061,48061,Cameron County Health Department,TX
+TX115,2016,48061,48061,Cameron County Health Department,TX
+TX120,2014,48073,48073,Cherokee County Health Department,TX
+TX120,2016,48073,48073,Cherokee County Health Department,TX
+TX122,2006,48085,48085,Collin County Health Care Services,TX
+TX122,2012,48085,48085,Collin County Health Care Services,TX
+TX122,2014,48085,48085,Collin County Health Care Services,TX
+TX128,2016,48085,48085,City Of Dallas Environmental And Health Services,TX
+TX131,2006,48121,48121,Denton County Health Department,TX
+TX131,2012,48121,48121,Denton County Health Department,TX
+TX131,2014,48121,48121,Denton County Health Department,TX
+TX131,2016,48121,48121,Denton County Health Department,TX
+TX136,2014,48121,48121,City Of Fort Worth Public Health Department,TX
+TX133,2006,48135,48135,Ector County Health Department,TX
+TX133,2012,48135,48135,Ector County Health Department,TX
+TX133,2014,48135,48135,Ector County Health Department,TX
+TX133,2016,48135,48135,Ector County Health Department,TX
+TX139,2014,48139,48139,City Of Grand Prairie Environmental Services Department,TX
+TX139,2016,48139,48139,City Of Grand Prairie Environmental Services Department,TX
+TX135,2016,48157,48157,Fort Bend County Health Department,TX
+TX137,2006,48167,48167,Galveston County Health District,TX
+TX137,2016,48167,48167,Galveston County Health District,TX
+TX143,2016,48199,48199,Hardin County Health Department,TX
+TX144,2016,48201,48201,Harris County Health Department,TX
+TX146,2014,48201,48201,Houston Department Of Health And Human Services,TX
+TX146,2016,48201,48201,Houston Department Of Health And Human Services,TX
+TX009,2016,48245,48245,Beaumont Public Health Department,TX
+TX168,2016,48245,48245,Port Arthur City Health Department,TX
+TX155,2012,48303,48303,City Of Lubbock Health Department,TX
+TX155,2016,48303,48303,City Of Lubbock Health Department,TX
+TX183,2006,48309,48309,Waco-Mclennan County Public Health District,TX
+TX183,2012,48309,48309,Waco-Mclennan County Public Health District,TX
+TX183,2016,48309,48309,Waco-Mclennan County Public Health District,TX
+TX160,2014,48329,48329,Midland Health Department,TX
+TX125,2006,48355,48355,Corpus Christi-Nueces County Public Health District,TX
+TX125,2012,48355,48355,Corpus Christi-Nueces County Public Health District,TX
+TX125,2016,48355,48355,Corpus Christi-Nueces County Public Health District,TX
+TX189,2014,48375,48375,Amarillo Bi-City County Health District,TX
+TX189,2016,48375,48375,Amarillo Bi-City County Health District,TX
+TX179,2014,48423,48423,Smith County Public Health District,TX
+TX179,2016,48423,48423,Smith County Public Health District,TX
+TX136,2006,48439,48439,City Of Fort Worth Public Health Department,TX
+TX170,2014,48451,48451,San Angelo-Tom Green County Health Department,TX
+TX170,2016,48451,48451,San Angelo-Tom Green County Health Department,TX
+TX007,2012,48453,48453,Austin/Travis County Health & Human Services Department,TX
+TX007,2014,48453,48453,Austin/Travis County Health & Human Services Department,TX
+TX007,2016,48453,48453,Austin/Travis County Health & Human Services Department,TX
+TX182,2014,48469,48469,Victoria City-County Health Department,TX
+TX182,2016,48469,48469,Victoria City-County Health Department,TX
+TX153,2014,48479,48479,City Of Laredo/Webb County Health Department,TX
+TX153,2016,48479,48479,City Of Laredo/Webb County Health Department,TX
+TX184,2006,48485,48485,Wichita Falls-Wichita County Public Health District,TX
+TX184,2012,48485,48485,Wichita Falls-Wichita County Public Health District,TX
+TX184,2014,48485,48485,Wichita Falls-Wichita County Public Health District,TX
+TX184,2016,48485,48485,Wichita Falls-Wichita County Public Health District,TX
+TX185,2016,48491,48491,Williamson County & Cities Health District,TX
+TX136,2012,48497,48497,City Of Fort Worth Public Health Department,TX
+UT012,2006,49029,49029,Weber-Morgan Health Department,UT
+UT012,2014,49029,49029,Weber-Morgan Health Department,UT
+UT012,2016,49029,49029,Weber-Morgan Health Department,UT
+UT006,2014,49035,49035,Salt Lake City-County Health Department,UT
+UT006,2016,49035,49035,Salt Lake City-County Health Department,UT
+UT009,2014,49045,49045,Tooele County Health Department,UT
+UT009,2016,49045,49045,Tooele County Health Department,UT
+UT010,2014,49047,49047,TriCounty Health,UT
+UT010,2016,49047,49047,TriCounty Health,UT
+UT003,2012,49049,49049,Utah County Health Department,UT
+UT003,2014,49049,49049,Utah County Health Department,UT
+UT003,2016,49049,49049,Utah County Health Department,UT
+UT007,2012,49053,49053,Southwest Utah Public Health Department,UT
+UT007,2014,49053,49053,Southwest Utah Public Health Department,UT
+VT005,2014,50007,50007,Burlington District Office/Vermont Department Health,VT
+VT005,2016,50007,50007,Burlington District Office/Vermont Department Health,VT
+VA008,2014,51013,51013,Arlington Department Of Human Services,VA
+VA117,2014,51087,51087,Henrico County Health Department,VA
+VA057,2006,51107,51107,Loudoun Health District,VA
+VA057,2012,51107,51107,Loudoun Health District,VA
+VA057,2014,51107,51107,Loudoun Health District,VA
+VA057,2016,51107,51107,Loudoun Health District,VA
+VA045,2014,51127,51127,Hanover Health District/ Chickahominy Health District,VA
+VA045,2016,51127,51127,Hanover Health District/ Chickahominy Health District,VA
+VA085,2014,51157,51157,Rappahannock-Rapidan Health District,VA
+VA085,2016,51157,51157,Rappahannock-Rapidan Health District,VA
+VA031,2014,51185,51185,Cumberland Plateau Health District,VA
+VA031,2016,51185,51185,Cumberland Plateau Health District,VA
+VA114,2014,51193,51193,Three Rivers Health District,VA
+VA114,2016,51193,51193,Three Rivers Health District,VA
+VA134,2016,51540,51540,Thomas Jefferson Health District,VA
+VA025,2006,51550,51550,Chesapeake Health District,VA
+VA025,2016,51550,51550,Chesapeake Health District,VA
+VA026,2016,51570,51570,Chesterfield Health District,VA
+VA077,2016,51590,51590,Pittsylvania Danville Health District,VA
+VA036,2006,51610,51610,Fairfax County Health Department,VA
+VA036,2012,51610,51610,Fairfax County Health Department,VA
+VA036,2016,51610,51610,Fairfax County Health Department,VA
+VA084,2014,51630,51630,Rappahannock Area Health District,VA
+VA084,2016,51630,51630,Rappahannock Area Health District,VA
+VA131,2016,51640,51640,Mt Rogers Health District,VA
+VA052,2012,51650,51650,Hampton Health District,ZZ
+VA052,2016,51650,51650,Hampton Health District,VA
+VA128,2014,51680,51680,Central Virginia Health District,VA
+VA082,2012,51685,51685,Prince William Health District,VA
+VA082,2016,51685,51685,Prince William Health District,VA
+VA135,2016,51690,51690,West Piedmont Health District,VA
+VA132,2006,51700,51700,Peninsula Health District-Virginia Department Of Health,VA
+VA132,2012,51700,51700,Peninsula Health District-Virginia Department Of Health,VA
+VA069,2016,51710,51710,Norfolk Department Of Public Health,VA
+VA129,2006,51730,51730,Crater Health District,VA
+VA129,2012,51730,51730,Crater Health District,VA
+VA078,2012,51740,51740,Portsmouth Health Department,VA
+VA078,2014,51740,51740,Portsmouth Health Department,VA
+VA078,2016,51740,51740,Portsmouth Health Department,VA
+VA065,2016,51750,51750,New River Health District,VA
+VA086,2012,51760,51760,City Of Richmond Health District,VA
+VA086,2014,51760,51760,City Of Richmond Health District,VA
+VA086,2016,51760,51760,City Of Richmond Health District,VA
+VA100,2006,51800,51800,Western Tidewater Health District,VA
+VA100,2016,51800,51800,Western Tidewater Health District,VA
+VA104,2012,51810,51810,Virginia Beach Department Of Public Health,VA
+VA127,2012,51820,51820,Central Shenandoah Health District,VA
+VA127,2014,51820,51820,Central Shenandoah Health District,VA
+VA127,2016,51820,51820,Central Shenandoah Health District,VA
+VA042,2006,51840,51840,Frederick/Winchester Health Department,VA
+VA042,2016,51840,51840,Frederick/Winchester Health Department,VA
+WA002,2016,53003,53003,Asotin County Health District,WA
+WA006,2016,53009,53009,Clallam County Health and Human Services,WA
+WA025,2006,53011,53011,SW Washington Health District/ Clark County Public Health,WA
+WA025,2012,53011,53011,SW Washington Health District/ Clark County Public Health,WA
+WA025,2014,53011,53011,SW Washington Health District/ Clark County Public Health,WA
+WA025,2016,53011,53011,SW Washington Health District/ Clark County Public Health,WA
+WA007,2016,53013,53013,Columbia County Health Department,WA
+WA003,2014,53021,53021,Benton-Franklin District Health Department,WA
+WA003,2016,53021,53021,Benton-Franklin District Health Department,WA
+WA009,2016,53023,53023,Garfield County Health District,WA
+WA010,2014,53025,53025,Grant County Health District,WA
+WA010,2016,53025,53025,Grant County Health District,WA
+WA011,2014,53027,53027,Grays Harbor County Public Health and Social Services,WA
+WA011,2016,53027,53027,Grays Harbor County Public Health and Social Services,WA
+WA013,2014,53031,53031,Jefferson County Public Health,WA
+WA013,2016,53031,53031,Jefferson County Public Health,WA
+WA022,2014,53033,53033,Seattle-King County Department Of Public Health,WA
+WA022,2016,53033,53033,Seattle-King County Department Of Public Health,WA
+WA004,2006,53035,53035,Bremerton-Kitsap County Health District,WA
+WA004,2012,53035,53035,Bremerton-Kitsap County Health District,WA
+WA004,2014,53035,53035,Bremerton-Kitsap County Health District,WA
+WA004,2016,53035,53035,Bremerton-Kitsap County Health District,WA
+WA014,2014,53037,53037,Kittitas County Health Department,WA
+WA014,2016,53037,53037,Kittitas County Health Department,WA
+WA034,2014,53039,53039,Klickitat County Health Department,WA
+WA034,2016,53039,53039,Klickitat County Health Department,WA
+WA015,2016,53041,53041,Lewis County Public Health & Social Services,WA
+WA017,2014,53045,53045,Mason County Public Health and Human Services,WA
+WA017,2016,53045,53045,Mason County Public Health and Human Services,WA
+WA020,2014,53049,53049,Pacific County Health and Human Services Department,WA
+WA020,2016,53049,53049,Pacific County Health and Human Services Department,WA
+WA027,2006,53053,53053,Tacoma-Pierce County Health Department,WA
+WA027,2012,53053,53053,Tacoma-Pierce County Health Department,WA
+WA027,2014,53053,53053,Tacoma-Pierce County Health Department,WA
+WA027,2016,53053,53053,Tacoma-Pierce County Health Department,WA
+WA021,2016,53055,53055,San Juan County Health & Community Services,WA
+WA024,2006,53061,53061,Snohomish Health District,WA
+WA024,2012,53061,53061,Snohomish Health District,WA
+WA024,2014,53061,53061,Snohomish Health District,WA
+WA024,2016,53061,53061,Snohomish Health District,WA
+WA026,2016,53063,53063,Spokane Regional Health District,WA
+WA018,2014,53065,53065,Northeast Tri-County Health District,WA
+WA018,2016,53065,53065,Northeast Tri-County Health District,WA
+WA028,2006,53067,53067,Thurston County Public Health & Social Svcs Department,WA
+WA028,2014,53067,53067,Thurston County Public Health & Social Svcs Department,WA
+WA028,2016,53067,53067,Thurston County Public Health & Social Svcs Department,WA
+WA029,2016,53069,53069,Wahkiakum County Health Department,WA
+WA030,2014,53071,53071,Walla Walla County Health Department,WA
+WA030,2016,53071,53071,Walla Walla County Health Department,WA
+WA031,2012,53073,53073,Whatcom County Health Department,WA
+WA031,2014,53073,53073,Whatcom County Health Department,WA
+WA031,2016,53073,53073,Whatcom County Health Department,WA
+WA033,2016,53077,53077,Yakima County Health District,WA
+WV007,2014,54015,54015,Clay County Health Department,WV
+WV008,2016,54017,54017,Doddridge County Health Department,WV
+WV013,2014,54027,54027,Hampshire County Health Department,WV
+WV018,2016,54037,54037,Jefferson County Health Department,WV
+WV019,2006,54039,54039,Kanawha Charleston Health Department,WV
+WV019,2016,54039,54039,Kanawha Charleston Health Department,WV
+WV050,2016,54043,54043,Lincoln County Health Department,WV
+WV024,2016,54053,54053,Mason County Health Department,WV
+WV028,2014,54057,54057,Mineral County Health Department,WV
+WV028,2016,54057,54057,Mineral County Health Department,WV
+WV030,2016,54061,54061,Monongalia County Health Department,WV
+WV033,2014,54067,54067,Nicholas County Health Department,WV
+WV033,2016,54067,54067,Nicholas County Health Department,WV
+WV047,2016,54069,54069,Wheeling-Ohio County Health Department,WV
+WV999,2006,54081,54081,Bekley Raleigh Health Department,WV
+WV999,2012,54081,54081,Bekley Raleigh Health Department,WV
+WV999,2014,54081,54081,Bekley Raleigh Health Department,WV
+WV999,2016,54081,54081,Bekley Raleigh Health Department,WV
+WV039,2014,54083,54083,Randolph-Elkins Health Department,WV
+WV039,2016,54083,54083,Randolph-Elkins Health Department,WV
+WV027,2016,54107,54107,Mid-Ohio Valley Health Department,WV
+WI012,2016,55017,55017,Chippewa County Department of Public Health,WI
+WI017,2006,55025,55025,Dane County Division Of Public Health,WI
+WI017,2014,55025,55025,Dane County Division Of Public Health,WI
+WI047,2016,55025,55025,Madison Department Of Public Health,WI
+WI019,2014,55027,55027,Dodge County Human Services and Health Department,WI
+WI020,2014,55029,55029,Door County Public Health Department,WI
+WI020,2016,55029,55029,Door County Public Health Department,WI
+WI026,2014,55041,55041,Forest County Health Department,WI
+WI026,2016,55041,55041,Forest County Health Department,WI
+WI029,2014,55043,55043,Grant County Health Department,WI
+WI029,2016,55043,55043,Grant County Health Department,WI
+WI036,2016,55049,55049,Iowa County Health Department,WI
+WI040,2014,55055,55055,Jefferson County Health Department,WI
+WI040,2016,55055,55055,Jefferson County Health Department,WI
+WI042,2006,55059,55059,Kenosha County Division Of Health,WI
+WI042,2012,55059,55059,Kenosha County Division Of Health,WI
+WI042,2014,55059,55059,Kenosha County Division Of Health,WI
+WI042,2016,55059,55059,Kenosha County Division Of Health,WI
+WI044,2006,55063,55063,Lacrosse County Health Department,WI
+WI044,2012,55063,55063,Lacrosse County Health Department,WI
+WI044,2014,55063,55063,Lacrosse County Health Department,WI
+WI044,2016,55063,55063,Lacrosse County Health Department,WI
+WI101,2014,55067,55067,Langlade County Health Department,WI
+WI101,2016,55067,55067,Langlade County Health Department,WI
+WI049,2014,55071,55071,Manitowoc County Health Department,WI
+WI049,2016,55071,55071,Manitowoc County Health Department,WI
+WI050,2006,55073,55073,Marathon County Health Department,WI
+WI050,2012,55073,55073,Marathon County Health Department,WI
+WI016,2014,55079,55079,Cudahy Health Department,WI
+WI016,2016,55079,55079,Cudahy Health Department,WI
+WI056,2006,55079,55079,Milwaukee Health Department,WI
+WI056,2012,55079,55079,Milwaukee Health Department,WI
+WI056,2016,55079,55079,Milwaukee Health Department,WI
+WI096,2016,55079,55079,West Allis Health Department,WI
+WI114,2014,55079,55079,North Shore Health Department,WI
+WI114,2016,55079,55079,North Shore Health Department,WI
+WI058,2014,55081,55081,Monroe County Health Agency,WI
+WI058,2016,55081,55081,Monroe County Health Agency,WI
+WI064,2012,55087,55087,Outagamie County Public Health,WI
+WI064,2014,55087,55087,Outagamie County Public Health,WI
+WI064,2016,55087,55087,Outagamie County Public Health,WI
+WI065,2014,55089,55089,Ozaukee County Public Health Department,WI
+WI066,2016,55091,55091,Pepin County Health Department,WI
+WI068,2014,55095,55095,Polk County Health Department,WI
+WI068,2016,55095,55095,Polk County Health Department,WI
+WI008,2014,55101,55101,Central Racine County Health Department,WI
+WI008,2016,55101,55101,Central Racine County Health Department,WI
+WI073,2006,55105,55105,Rock County Public Health Department,WI
+WI073,2012,55105,55105,Rock County Public Health Department,WI
+WI073,2014,55105,55105,Rock County Public Health Department,WI
+WI073,2016,55105,55105,Rock County Public Health Department,WI
+WI078,2006,55117,55117,Sheboygan County Division Of Public Health,WI
+WI078,2012,55117,55117,Sheboygan County Division Of Public Health,WI
+WI078,2016,55117,55117,Sheboygan County Division Of Public Health,WI
+WI090,2006,55131,55131,Washington County Health And Human Services,WI
+WI090,2012,55131,55131,Washington County Health And Human Services,WI
+WI090,2014,55131,55131,Washington County Health And Human Services,WI
+WI090,2016,55131,55131,Washington County Health And Human Services,WI
+WI092,2014,55133,55133,Waukesha County Public Health Division,WI
+WI093,2016,55135,55135,Waupaca County Health Services Division,WI
+WI094,2014,55137,55137,Waushara County Health Department,WI
+WI094,2016,55137,55137,Waushara County Health Department,WI
+WI100,2014,55141,55141,Wood County Health Department,WI
+WI100,2016,55141,55141,Wood County Health Department,WI
+WY049,2014,56001,56001,Albany County Public Health Nursing,WY
+WY049,2016,56001,56001,Albany County Public Health Nursing,WY
+WY003,2016,56007,56007,Carbon County Public Health,WY
+WY010,2014,56017,56017,Hot Springs County Health Department,WY
+WY010,2016,56017,56017,Hot Springs County Health Department,WY
+WY005,2016,56021,56021,Cheyenne/Laramie City County Health Department,WY
+WY004,2016,56025,56025,City of Casper-Natrona County Health Department,WY
+WY015,2016,56029,56029,Park County Public Health Nursing,WY
+WY017,2016,56033,56033,Sheridan County Public  Health,WY
+WY020,2014,56039,56039,Teton County Health Department,WY
+WY020,2016,56039,56039,Teton County Health Department,WY
